@@ -1,0 +1,275 @@
+ { "ChicFla":
+ 
+ [
+  {
+    "id": 1,
+    "title": "Beige Chic Flat Sandals",
+    "price": 399,
+    "description": "Stylish beige flat sandals with criss-cross straps for daily wear.",
+    "thumbnail": "https://images.meesho.com/images/products/175311634/whjlg_400.webp",
+    "rating": 4.4,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 2,
+    "title": "Black Designer Flats",
+    "price": 449,
+    "description": "Elegant black flats with soft cushion base and minimalistic design.",
+    "thumbnail": "https://images.meesho.com/images/products/304772673/84buo_400.webp",
+    "rating": 4.5,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 3,
+    "title": "Brown Leather Chic Flats",
+    "price": 479,
+    "description": "Comfortable brown leather flats perfect for casual and office wear.",
+    "thumbnail": "https://images.meesho.com/images/products/388743746/pzdvf_400.webp",
+    "rating": 4.2,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 4,
+    "title": "Pastel Pink Bow Flats",
+    "price": 369,
+    "description": "Chic pastel pink flats with a cute front bow detail.",
+    "thumbnail": "https://images.meesho.com/images/products/543339368/fwwod_400.webp",
+    "rating": 4.3,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 5,
+    "title": "Glitter Strap Silver Flats",
+    "price": 499,
+    "description": "Flat sandals with glittery silver straps for party wear.",
+    "thumbnail": "https://images.meesho.com/images/products/459708325/jactp_400.webp",
+    "rating": 4.5,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 6,
+    "title": "Ethnic Embroidered Flats",
+    "price": 429,
+    "description": "Flat footwear with ethnic embroidery and traditional charm.",
+    "thumbnail": "https://images.meesho.com/images/products/444538905/jiqvw_400.webp",
+    "rating": 4.6,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 7,
+    "title": "Beaded Strap Flats",
+    "price": 389,
+    "description": "Trendy beaded strap design flats in multi-color.",
+    "thumbnail": "https://images.meesho.com/images/products/444538905/jiqvw_400.webp",
+    "rating": 4.2,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 8,
+    "title": "White Chic Toe Ring Flats",
+    "price": 359,
+    "description": "White flats with elegant toe ring and comfort sole.",
+    "thumbnail": "https://images.meesho.com/images/products/391731010/lbb1l_400.webp",
+    "rating": 4.0,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 9,
+    "title": "Denim Look Slip-On Flats",
+    "price": 319,
+    "description": "Slip-on denim styled flat sandals for cool everyday fashion.",
+    "thumbnail": "https://images.meesho.com/images/products/541156628/v7zaa_400.webp",
+    "rating": 4.1,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 10,
+    "title": "Red Chic Party Flats",
+    "price": 399,
+    "description": "Bold red flats with glossy finish, perfect for parties.",
+    "thumbnail": "https://images.meesho.com/images/products/455396785/bze6q_400.webp",
+    "rating": 4.4,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 11,
+    "title": "Yellow Summer Chic Flats",
+    "price": 359,
+    "description": "Bright yellow flats made for breezy summer fashion.",
+    "thumbnail": "https://images.meesho.com/images/products/396887135/j2w7i_400.webp",
+    "rating": 4.1,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 12,
+    "title": "Golden Shimmer Flats",
+    "price": 489,
+    "description": "Flat sandals with golden shimmer straps for festive wear.",
+    "thumbnail": "https://images.meesho.com/images/products/364360931/qpbjb_400.webp",
+    "rating": 4.6,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 13,
+    "title": "Animal Print Chic Flats",
+    "price": 439,
+    "description": "Wild animal print chic flats with modern look.",
+    "thumbnail": "https://images.meesho.com/images/products/143406806/zabym_400.webp",
+    "rating": 4.2,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 14,
+    "title": "Cross Strap Grey Flats",
+    "price": 379,
+    "description": "Simple grey cross-strap flats for everyday use.",
+    "thumbnail": "https://images.meesho.com/images/products/184199586/mqwhq_400.webp",
+    "rating": 4.1,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 15,
+    "title": "Velvet Touch Chic Flats",
+    "price": 419,
+    "description": "Soft velvet finish flat sandals in navy blue.",
+    "thumbnail": "https://images.meesho.com/images/products/367152009/xhwyk_400.webp",
+    "rating": 4.4,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 16,
+    "title": "Chic Floral Flats",
+    "price": 349,
+    "description": "Printed floral design flats for girls and women.",
+    "thumbnail": "https://images.meesho.com/images/products/419857824/moiqg_400.webp",
+    "rating": 4.3,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 17,
+    "title": "Stone Decorated Flats",
+    "price": 459,
+    "description": "Flat footwear with stone embellishments and metallic touch.",
+    "thumbnail": "https://images.meesho.com/images/products/205205541/opqdi_400.webp",
+    "rating": 4.5,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 18,
+    "title": "Transparent Strap Flats",
+    "price": 399,
+    "description": "Modern transparent strap flats for a sleek look.",
+    "thumbnail": "https://images.meesho.com/images/products/426091890/c0uof_400.webp",
+    "rating": 4.0,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 19,
+    "title": "Minimal Beige Flats",
+    "price": 329,
+    "description": "Simple beige flat sandals with lightweight sole.",
+    "thumbnail": "https://images.meesho.com/images/products/475874783/gertd_400.webp",
+    "rating": 4.2,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 20,
+    "title": "Braided Strap Flats",
+    "price": 369,
+    "description": "Stylish braided strap design in tan color.",
+    "thumbnail": "https://images.meesho.com/images/products/437605735/6mers_400.webp",
+    "rating": 4.3,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 21,
+    "title": "Dual Tone Flats",
+    "price": 389,
+    "description": "Trendy dual-tone flats combining modern and ethnic styles.",
+    "thumbnail": "https://images.meesho.com/images/products/455401625/k7vt7_400.webp",
+    "rating": 4.5,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 22,
+    "title": "Studded Strap Party Flats",
+    "price": 499,
+    "description": "Flat sandals with studded detailing perfect for night outs.",
+    "thumbnail": "https://images.meesho.com/images/products/67089246/vz09j_400.webp",
+    "rating": 4.6,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 23,
+    "title": "Fringe Style Flats",
+    "price": 389,
+    "description": "Chic fringe-style flats with comfort footbed.",
+    "thumbnail": "https://images.meesho.com/images/products/441745972/zu4xg_400.webp",
+    "rating": 4.1,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 24,
+    "title": "Sling Strap Buckle Flats",
+    "price": 429,
+    "description": "Flats with sling-style back and front buckle.",
+    "thumbnail": "https://images.meesho.com/images/products/396887135/j2w7i_400.webp",
+    "rating": 4.3,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 25,
+    "title": "Pastel Green Flats",
+    "price": 349,
+    "description": "Chic pastel green flats for a soft and calm look.",
+    "thumbnail": "https://images.meesho.com/images/products/396887135/j2w7i_400.webp",
+    "rating": 4.0,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 26,
+    "title": "Pearl Strap Flat Sandals",
+    "price": 479,
+    "description": "Elegant flats with pearl-styled strap perfect for occasions.",
+    "thumbnail": "https://images.meesho.com/images/products/333757442/mpvjg_400.webp",
+    "rating": 4.6,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 27,
+    "title": "Faux Suede Grey Flats",
+    "price": 399,
+    "description": "Faux suede finish grey flats with casual design.",
+    "thumbnail": "https://images.meesho.com/images/products/417753891/bkekr_400.webp",
+    "rating": 4.2,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 28,
+    "title": "Textured Footbed Flats",
+    "price": 359,
+    "description": "Comfortable textured footbed with non-slip grip.",
+    "thumbnail": "https://images.meesho.com/images/products/465632640/eridz_400.webp",
+    "rating": 4.1,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 29,
+    "title": "Maroon Glossy Flats",
+    "price": 429,
+    "description": "Glossy maroon flats for elegant evening wear.",
+    "thumbnail": "https://images.meesho.com/images/products/552112350/1rdce_400.webp",
+    "rating": 4.5,
+    "category": "Chic Flats"
+  },
+  {
+    "id": 30,
+    "title": "Cork Style Chic Flats",
+    "price": 369,
+    "description": "Flat sandals with cork-style sole and white strap.",
+    "thumbnail": "https://images.meesho.com/images/products/547042027/pixmy_400.webp",
+    "rating": 4.3,
+    "category": "Chic Flats"
+  }
+]
+}

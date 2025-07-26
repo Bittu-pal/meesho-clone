@@ -1,0 +1,550 @@
+{
+  "StringInstruments": [
+    {
+      "id": 1,
+      "title": "Acoustic Guitar with Kit",
+      "price": 4999,
+      "description": "38-inch cutaway acoustic guitar with a complete starter kit including a bag, strap, picks, and extra strings. Perfect for beginners.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b2-rZ-y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "String Instruments"
+    },
+    {
+      "id": 2,
+      "title": "4/4 Full-Size Violin Kit",
+      "price": 5500,
+      "description": "Full-size violin made from solid wood, suitable for students and intermediate players. Includes bow, rosin, and a hard case.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "String Instruments"
+    },
+    {
+      "id": 3,
+      "title": "Concert Ukulele with Bag",
+      "price": 2800,
+      "description": "23-inch concert ukulele made from Sapele wood, offering a rich and warm tone. Comes with a gig bag.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "String Instruments"
+    },
+    {
+      "id": 4,
+      "title": "Electric Guitar with Amplifier",
+      "price": 9999,
+      "description": "Full-size electric guitar with a classic double-cutaway design. Includes a 10W amplifier, cable, strap, and picks.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61gVw-p5D5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "String Instruments"
+    },
+    {
+      "id": 5,
+      "title": "4-String Electric Bass Guitar",
+      "price": 11500,
+      "description": "A versatile and comfortable electric bass guitar with a solid body and two single-coil pickups.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61W8j1w-P0L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "String Instruments"
+    },
+    {
+      "id": 6,
+      "title": "Professional Indian Sitar",
+      "price": 18000,
+      "description": "A full-size, handcrafted sitar with a gourd toomba and 7 main strings. Includes a soft case.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "String Instruments"
+    },
+    {
+      "id": 7,
+      "title": "Classical Nylon-String Guitar",
+      "price": 6200,
+      "description": "A full-size classical guitar with nylon strings, producing a mellow and soft tone ideal for classical and flamenco music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "String Instruments"
+    },
+    {
+      "id": 8,
+      "title": "Mandolin A-Style with Gig Bag",
+      "price": 7500,
+      "description": "An 8-string A-style mandolin with a glossy sunburst finish, perfect for bluegrass and folk music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "String Instruments"
+    },
+    {
+      "id": 9,
+      "title": "5-String Banjo",
+      "price": 14000,
+      "description": "A 5-string banjo with a mahogany resonator and a Remo head, delivering a classic bright and twangy sound.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "String Instruments"
+    },
+    {
+      "id": 10,
+      "title": "4/4 Student Cello Outfit",
+      "price": 25000,
+      "description": "A complete cello outfit for students, including a cello with a spruce top, a bow, and a padded gig bag.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51B1iO-WMwL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "String Instruments"
+    },
+    {
+      "id": 11,
+      "title": "Semi-Acoustic Guitar",
+      "price": 8500,
+      "description": "A versatile semi-acoustic guitar with a built-in pickup and preamp system, allowing for both amplified and unplugged playing.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61V1-g7lFjL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "String Instruments"
+    },
+    {
+      "id": 12,
+      "title": "16-inch Viola with Case",
+      "price": 9500,
+      "description": "A 16-inch student viola outfit, handcrafted with a solid spruce top and maple back. Includes case, bow, and rosin.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "String Instruments"
+    },
+    {
+      "id": 13,
+      "title": "Sarod with Coconut Plectrum",
+      "price": 22000,
+      "description": "A professional Indian sarod made from tun wood, known for its deep and resonant sound. Comes with a java (plectrum).",
+      "thumbnail": "https://m.media-amazon.com/images/I/61N4d5t4BCL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "String Instruments"
+    },
+    {
+      "id": 14,
+      "title": "Soprano Ukulele (Beginner)",
+      "price": 1999,
+      "description": "A colorful 21-inch soprano ukulele, perfect for kids and absolute beginners to start their musical journey.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Yv0-r7+jL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.3,
+      "category": "String Instruments"
+    },
+    {
+      "id": 15,
+      "title": "Lap Steel Guitar",
+      "price": 13500,
+      "description": "A 6-string electric lap steel guitar with a solid hardwood body, perfect for blues, country, and Hawaiian music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61gVw-p5D5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "String Instruments"
+    }
+  ],
+  "MusicalAccessories": [
+    {
+      "id": 16,
+      "title": "Clip-On Digital Tuner",
+      "price": 499,
+      "description": "A versatile clip-on tuner with a color display for guitar, bass, violin, and ukulele. Accurate and easy to use.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Z-5pQ-Q5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 17,
+      "title": "Acoustic Guitar Strings (Pack of 3 sets)",
+      "price": 550,
+      "description": "3 sets of high-quality phosphor bronze acoustic guitar strings, delivering a warm and balanced tone.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71aA7i9zD4L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 18,
+      "title": "Guitar Capo for Acoustic & Electric",
+      "price": 399,
+      "description": "A strong, lightweight zinc alloy capo with a spring-action clamp for quick changes on stage.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61V+y-2nLmL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 19,
+      "title": "Adjustable Guitar Strap",
+      "price": 350,
+      "description": "A comfortable and durable nylon guitar strap with leather ends, adjustable for players of all sizes.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71J4-w7wJTL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 20,
+      "title": "Assorted Guitar Picks (20 Pack)",
+      "price": 250,
+      "description": "A pack of 20 celluloid guitar picks in various thicknesses (light, medium, heavy) for different playing styles.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 21,
+      "title": "Foldable Music Stand with Bag",
+      "price": 1200,
+      "description": "A portable and adjustable metal music stand for holding sheet music. Comes with a carrying bag.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Z1-g8p8wL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 22,
+      "title": "Padded Guitar Gig Bag",
+      "price": 999,
+      "description": "A durable, padded gig bag to protect your acoustic guitar from scratches and minor impacts during transport.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 23,
+      "title": "Digital Metronome",
+      "price": 850,
+      "description": "A pocket-sized digital metronome with a loud tone, headphone jack, and multiple rhythm patterns.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61i3kG2pYjL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 24,
+      "title": "Violin Shoulder Rest (4/4 Size)",
+      "price": 750,
+      "description": "An adjustable and ergonomic shoulder rest for a 4/4 violin, providing comfort during long practice sessions.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61N4d5t4BCL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 25,
+      "title": "Keyboard Sustain Pedal",
+      "price": 1500,
+      "description": "A universal sustain pedal with a classic piano-style design and a non-slip rubber base, compatible with most keyboards.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51p4-1yYjDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 26,
+      "title": "Adjustable Keyboard Stand",
+      "price": 1800,
+      "description": "A sturdy, double-X style keyboard stand with adjustable height and a locking mechanism for stability.",
+      "thumbnail": "https://m.media-amazon.com/images/I/619y2rY-3lL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 27,
+      "title": "5A Hickory Drumsticks (1 Pair)",
+      "price": 450,
+      "description": "A pair of well-balanced 5A hickory drumsticks, a popular choice for all drumming styles.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51s-gK-YFAL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 28,
+      "title": "Instrument Cable (10 feet)",
+      "price": 600,
+      "description": "A 10-foot long instrument cable with 1/4-inch straight plugs for connecting guitars, basses, and keyboards.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61M6F9K-5uL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 29,
+      "title": "Violin Bow (4/4 Full Size)",
+      "price": 1200,
+      "description": "A well-balanced Brazilwood bow with genuine horsehair, suitable for 4/4 size violins.",
+      "thumbnail": "https://m.media-amazon.com/images/I/41D0G7-i+VL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.3,
+      "category": "Musical Accessories"
+    },
+    {
+      "id": 30,
+      "title": "Wall Mount Guitar Hanger",
+      "price": 380,
+      "description": "A sturdy wall mount hanger with an auto-locking yoke to securely display your guitar and save space.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61q3K8Y-pGL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Musical Accessories"
+    }
+  ],
+  "WindInstruments": [
+    {
+      "id": 31,
+      "title": "C-Key Flute for Beginners",
+      "price": 4500,
+      "description": "A 16-hole C-key concert flute with a nickel-plated body. Includes a hard case, cleaning rod, and cloth.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Z3rlw+fQL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 32,
+      "title": "Diatonic Harmonica (Key of C)",
+      "price": 999,
+      "description": "A 10-hole diatonic harmonica in the key of C, perfect for blues, folk, and rock music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9jV25-AL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 33,
+      "title": "B-Flat Clarinet with Case",
+      "price": 9800,
+      "description": "A standard B-flat student clarinet made from durable ABS resin. Comes with a case, reeds, and cleaning kit.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61D1+W+j-vL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 34,
+      "title": "Alto Saxophone (Gold Lacquer)",
+      "price": 28000,
+      "description": "An E-flat alto saxophone with a beautiful gold lacquer finish, high F# key, and engraved bell. Includes a case and accessories.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 35,
+      "title": "B-Flat Trumpet with Case & Mouthpiece",
+      "price": 12500,
+      "description": "A standard student trumpet in the key of B-flat with a brass body and smooth-action valves.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 36,
+      "title": "Indian Bamboo Flute / Bansuri (C Scale)",
+      "price": 850,
+      "description": "A handcrafted professional quality Indian bamboo flute (Bansuri) in the key of C.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51B1iO-WMwL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 37,
+      "title": "Soprano Recorder",
+      "price": 450,
+      "description": "A 3-piece soprano recorder, easy to play and ideal for school music programs and beginners.",
+      "thumbnail": "https://m.media-amazon.com/images/I/41J4-w7wJTL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.2,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 38,
+      "title": "Tenor Trombone",
+      "price": 19500,
+      "description": "A B-flat tenor trombone with a brass body and a responsive slide, suitable for students.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51s-gK-YFAL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.3,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 39,
+      "title": "Melodica (32-Key)",
+      "price": 2200,
+      "description": "A 32-key piano-style melodica, a fun and easy-to-play wind instrument. Includes a carrying case.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 40,
+      "title": "Oboe (Student Model)",
+      "price": 35000,
+      "description": "A C-key student oboe with a composite body for durability and a rich tone.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51p4-1yYjDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.1,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 41,
+      "title": "Single French Horn",
+      "price": 32000,
+      "description": "A single French horn in the key of F with 3 rotary valves, ideal for beginners.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.2,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 42,
+      "title": "Pocket Trumpet (B-Flat)",
+      "price": 9500,
+      "description": "A compact and portable pocket trumpet that plays in the same B-flat pitch as a standard trumpet.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71J4-w7wJTL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.0,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 43,
+      "title": "Chromatic Harmonica (12-Hole)",
+      "price": 2800,
+      "description": "A 12-hole, 48-tone chromatic harmonica with a slide button for playing in any key.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 44,
+      "title": "Indian Shehnai",
+      "price": 3500,
+      "description": "A traditional Indian shehnai made of wood with a metal bell, used in classical and folk music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/41D0G7-i+VL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.3,
+      "category": "Wind Instruments"
+    },
+    {
+      "id": 45,
+      "title": "Irish Tin Whistle (Key of D)",
+      "price": 950,
+      "description": "A classic brass tin whistle (penny whistle) in the key of D, perfect for traditional Irish folk music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/51B1iO-WMwL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Wind Instruments"
+    }
+  ],
+  "AllMusicalInstruments": [
+    {
+      "id": 46,
+      "title": "61-Key Portable Keyboard",
+      "price": 7500,
+      "description": "A portable electronic keyboard with 61 full-sized keys, hundreds of tones and rhythms, and a lesson function.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 47,
+      "title": "Acoustic Drum Kit (5-Piece)",
+      "price": 24000,
+      "description": "A complete 5-piece acoustic drum set with cymbals, stands, a throne, and drumsticks. Perfect for beginners.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 48,
+      "title": "Wooden Cajon Drum Box",
+      "price": 4800,
+      "description": "A birch wood cajon with internal snare wires, delivering a deep bass tone and crisp slap sounds.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 49,
+      "title": "Tabla Drum Set",
+      "price": 6500,
+      "description": "A professional quality tabla set, including a copper bayan and a sheesham dayan, with cushions and a hammer.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 50,
+      "title": "9-Stop Harmonium",
+      "price": 9500,
+      "description": "A 3.5 octave, 9-stop harmonium with a coupler function, producing a rich and sustained sound.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b2-rZ-y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 51,
+      "title": "Kalimba / Thumb Piano (17-Key)",
+      "price": 1800,
+      "description": "A 17-key kalimba made from mahogany wood, creating a clear and melodic sound. Includes a tuning hammer.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 52,
+      "title": "Bongo Drums Set",
+      "price": 4200,
+      "description": "A set of bongo drums with natural hide heads, perfect for adding a Latin percussion flavor to your music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 53,
+      "title": "25-Key MIDI Controller Keyboard",
+      "price": 6800,
+      "description": "A compact USB MIDI controller with 25 velocity-sensitive keys, 8 pads, and assignable knobs for music production.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61W8j1w-P0L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 54,
+      "title": "Professional Djembe Drum",
+      "price": 5500,
+      "description": "A 10-inch hand-carved mahogany djembe with a goatskin head, producing a wide range of tones.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 55,
+      "title": "88-Key Digital Piano",
+      "price": 35000,
+      "description": "A full-size digital piano with 88 weighted keys, a wooden stand, and a three-pedal unit for a realistic piano experience.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61N4d5t4BCL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 56,
+      "title": "Accordion (32-Bass)",
+      "price": 19000,
+      "description": "A piano accordion with 26 keys and 32 bass buttons, a great instrument for folk music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 57,
+      "title": "Electronic Drum Pad",
+      "price": 12000,
+      "description": "A portable, roll-up electronic drum kit with built-in speakers, pedals, and multiple drum sounds.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Z1-g8p8wL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.2,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 58,
+      "title": "Ghatam (Clay Pot Drum)",
+      "price": 2500,
+      "description": "A South Indian percussion instrument, this clay pot ghatam is tuned to produce a sharp metallic ringing sound.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 59,
+      "title": "Digital Synthesizer",
+      "price": 28000,
+      "description": "A powerful and compact analog modeling synthesizer with a vocoder and a wide range of sound creation possibilities.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "All Musical Instruments"
+    },
+    {
+      "id": 60,
+      "title": "Pair of Conga Drums with Stand",
+      "price": 18500,
+      "description": "A set of two conga drums (quinto and conga) with an adjustable double stand, perfect for salsa and Afro-Cuban music.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61i3kG2pYjL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "All Musical Instruments"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{ "Book":[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "price": 450,
+    "rating": 4.5,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535115320l/40121378._SY475_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rich Dad Poor Dad",
+    "price": 399,
+    "rating": 4.3,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211242l/69571.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Think and Grow Rich",
+    "price": 350,
+    "rating": 4.4,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463242256l/30186948.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Psychology of Money",
+    "price": 420,
+    "rating": 4.6,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593498801l/41881472.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ikigai",
+    "price": 320,
+    "rating": 4.2,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545695819l/40534545.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Do It Today",
+    "price": 275,
+    "rating": 4.1,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589083597l/53428399.jpg"
+  },
+  {
+    "id": 7,
+    "title": "You Can",
+    "price": 199,
+    "rating": 4.0,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435033742l/25712217.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Deep Work",
+    "price": 500,
+    "rating": 4.4,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447038089l/25744928.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Can't Hurt Me",
+    "price": 550,
+    "rating": 4.7,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542426915l/41721428.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "price": 399,
+    "rating": 4.3,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Zero to One",
+    "price": 480,
+    "rating": 4.2,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Hooked",
+    "price": 520,
+    "rating": 4.5,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436731168l/23386443.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Make Time",
+    "price": 350,
+    "rating": 4.0,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520623049l/37880811.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Power of Now",
+    "price": 450,
+    "rating": 4.6,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458853712l/6708.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Essentialism",
+    "price": 400,
+    "rating": 4.2,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385958598l/18077875.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Start with Why",
+    "price": 399,
+    "rating": 4.4,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360936414l/7108725.jpg"
+  },
+  {
+    "id": 17,
+    "title": "How to Win Friends",
+    "price": 340,
+    "rating": 4.6,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726932l/4865.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Mindset",
+    "price": 420,
+    "rating": 4.5,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355989299l/40745.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The 5 AM Club",
+    "price": 380,
+    "rating": 4.1,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545890558l/37502596.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Your Money or Your Life",
+    "price": 450,
+    "rating": 4.2,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344268383l/78428.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Ego is the Enemy",
+    "price": 330,
+    "rating": 4.3,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463682664l/27276328.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Digital Minimalism",
+    "price": 420,
+    "rating": 4.4,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549446925l/40672036.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Stillness is the Key",
+    "price": 430,
+    "rating": 4.5,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557884868l/43581734.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Mastery",
+    "price": 480,
+    "rating": 4.2,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348922936l/13589182.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Principles",
+    "price": 499,
+    "rating": 4.3,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503525176l/34536488.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Rework",
+    "price": 399,
+    "rating": 4.1,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344268383l/78428.jpg"
+  },
+  {
+    "id": 27,
+    "title": "The Lean Startup",
+    "price": 420,
+    "rating": 4.3,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019.jpg"
+  },
+  {
+    "id": 28,
+    "title": "The Art of War",
+    "price": 250,
+    "rating": 4.0,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328126759l/10534.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Tools of Titans",
+    "price": 550,
+    "rating": 4.4,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480742338l/31823677.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The Almanack of Naval Ravikant",
+    "price": 399,
+    "rating": 4.7,
+    "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601449944l/54898389.jpg"
+  }
+]
+
+}

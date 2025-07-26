@@ -1,0 +1,824 @@
+{
+  "ChildrensBooks": [
+    {
+      "id": 1,
+      "title": "The Very Hungry Caterpillar",
+      "price": 350,
+      "description": "A classic picture book by Eric Carle that follows the journey of a caterpillar as it eats its way through a wide variety of foodstuffs before pupating and emerging as a butterfly.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 2,
+      "title": "Where the Wild Things Are",
+      "price": 420,
+      "description": "Maurice Sendak's iconic story of Max, a mischievous boy who sails away to an island inhabited by Wild Things.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 3,
+      "title": "Goodnight Moon",
+      "price": 380,
+      "description": "A beloved bedtime story by Margaret Wise Brown, featuring a bunny saying goodnight to everything in its room.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "price": 550,
+      "description": "The first book in the magical Harry Potter series by J.K. Rowling, introducing the world of Hogwarts.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 5,
+      "title": "The Cat in the Hat",
+      "price": 399,
+      "description": "Dr. Seuss's classic tale of a tall, mischievous cat who turns a rainy day into an adventure for Sally and her brother.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 6,
+      "title": "Charlotte's Web",
+      "price": 320,
+      "description": "E.B. White's heartwarming story about the friendship between a pig named Wilbur and a spider named Charlotte.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81n8fJ56MBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 7,
+      "title": "The Gruffalo",
+      "price": 410,
+      "description": "A clever mouse walks through the woods and encounters several dangerous animals, whom he outsmarts by inventing a terrifying monster, the Gruffalo.",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 8,
+      "title": "Panchatantra Stories for Kids",
+      "price": 250,
+      "description": "A collection of ancient Indian animal fables, each with a moral, designed to impart wisdom to young readers.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 9,
+      "title": "Diary of a Wimpy Kid",
+      "price": 450,
+      "description": "The first book in Jeff Kinney's wildly popular series, presented as the journal of middle-schooler Greg Heffley.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 10,
+      "title": "Don't Let the Pigeon Drive the Bus!",
+      "price": 390,
+      "description": "An interactive and hilarious book by Mo Willems where a persistent pigeon tries to convince the reader to let it drive a bus.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 11,
+      "title": "Matilda",
+      "price": 480,
+      "description": "Roald Dahl's story of a brilliant and telekinetic young girl who stands up to her neglectful parents and tyrannical headmistress.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 12,
+      "title": "The Giving Tree",
+      "price": 360,
+      "description": "Shel Silverstein's poignant story about the relationship between a boy and a tree that gives him everything it has.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 13,
+      "title": "Percy Jackson & The Lightning Thief",
+      "price": 499,
+      "description": "The first book in Rick Riordan's fantasy-adventure series based on Greek mythology, following demigod Percy Jackson.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 14,
+      "title": "Brown Bear, Brown Bear, What Do You See?",
+      "price": 340,
+      "description": "A classic board book by Bill Martin Jr. and Eric Carle that helps children associate colors and meanings with objects.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81o3G+3yZ6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Childrens Books"
+    },
+    {
+      "id": 15,
+      "title": "Amar Chitra Katha (Collection)",
+      "price": 999,
+      "description": "A collection of illustrated comics based on Indian mythology, history, and folklore.",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Childrens Books"
+    }
+  ],
+  "SelfHelpBooks": [
+    {
+      "id": 16,
+      "title": "Atomic Habits",
+      "price": 550,
+      "description": "James Clear's practical guide on how to build good habits and break bad ones, using a framework called the Four Laws of Behavior Change.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 17,
+      "title": "The Power of Your Subconscious Mind",
+      "price": 250,
+      "description": "Dr. Joseph Murphy's classic book on how to use the power of your mind to change your destiny.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 18,
+      "title": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "price": 450,
+      "description": "Explore the Japanese concept of 'ikigai' (a reason for being) to find your purpose and live a more fulfilling life.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 19,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "price": 499,
+      "description": "Mark Manson's counterintuitive approach to living a good life, focusing on what truly matters.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 20,
+      "title": "How to Win Friends and Influence People",
+      "price": 199,
+      "description": "Dale Carnegie's timeless bestseller on how to improve your social skills and relationships.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 21,
+      "title": "Rich Dad Poor Dad",
+      "price": 380,
+      "description": "Robert Kiyosaki's personal finance classic that challenges conventional wisdom about money and investing.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 22,
+      "title": "The 7 Habits of Highly Effective People",
+      "price": 480,
+      "description": "Stephen Covey's principle-centered approach for solving personal and professional problems.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 23,
+      "title": "Think and Grow Rich",
+      "price": 150,
+      "description": "Napoleon Hill's motivational classic, based on his study of successful individuals, outlining the 'Thirteen Steps to Riches'.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 24,
+      "title": "Man's Search for Meaning",
+      "price": 320,
+      "description": "Viktor Frankl's memoir of his experiences in Nazi concentration camps and his development of logotherapy.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 25,
+      "title": "The Psychology of Money",
+      "price": 420,
+      "description": "Morgan Housel's timeless lessons on wealth, greed, and happiness, exploring the strange ways people think about money.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 26,
+      "title": "Deep Work: Rules for Focused Success",
+      "price": 490,
+      "description": "Cal Newport's guide to developing the ability to focus without distraction on a cognitively demanding task.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 27,
+      "title": "You Can Heal Your Life",
+      "price": 350,
+      "description": "Louise Hay's seminal book on the power of affirmations and self-love to heal one's life.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81o3G+3yZ6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 28,
+      "title": "The Alchemist",
+      "price": 280,
+      "description": "Paulo Coelho's enchanting fable about a shepherd boy who journeys to find treasure and discovers himself along the way.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 29,
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 599,
+      "description": "Yuval Noah Harari's exploration of the history of Homo sapiens, from the Stone Age to the present day.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71J4-w7wJTL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Self Help Books"
+    },
+    {
+      "id": 30,
+      "title": "The Monk Who Sold His Ferrari",
+      "price": 220,
+      "description": "A fable by Robin Sharma about a successful lawyer who seeks spiritual wisdom after a health crisis.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b2-rZ-y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Self Help Books"
+    }
+  ],
+  "Novels": [
+    {
+      "id": 31,
+      "title": "To Kill a Mockingbird",
+      "price": 450,
+      "description": "Harper Lee's Pulitzer Prize-winning novel about racial injustice in the American South, seen through the eyes of a young girl.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Novels"
+    },
+    {
+      "id": 32,
+      "title": "1984",
+      "price": 250,
+      "description": "George Orwell's dystopian masterpiece about a totalitarian society where Big Brother is always watching.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Novels"
+    },
+    {
+      "id": 33,
+      "title": "The Great Gatsby",
+      "price": 320,
+      "description": "F. Scott Fitzgerald's novel about the mysterious millionaire Jay Gatsby and his obsessive love for Daisy Buchanan.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Novels"
+    },
+    {
+      "id": 34,
+      "title": "Pride and Prejudice",
+      "price": 280,
+      "description": "Jane Austen's classic romance novel about the spirited Elizabeth Bennet and the proud Mr. Darcy.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Novels"
+    },
+    {
+      "id": 35,
+      "title": "The Kite Runner",
+      "price": 499,
+      "description": "Khaled Hosseini's powerful story of friendship, betrayal, and redemption set against the backdrop of a changing Afghanistan.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81n8fJ56MBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Novels"
+    },
+    {
+      "id": 36,
+      "title": "The Catcher in the Rye",
+      "price": 350,
+      "description": "J.D. Salinger's novel about the angst-ridden teenager Holden Caulfield and his experiences in New York City.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.3,
+      "category": "Novels"
+    },
+    {
+      "id": 37,
+      "title": "A Thousand Splendid Suns",
+      "price": 480,
+      "description": "Another masterpiece by Khaled Hosseini, chronicling the lives of two Afghan women over three decades of turmoil.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Novels"
+    },
+    {
+      "id": 38,
+      "title": "The Palace of Illusions",
+      "price": 420,
+      "description": "Chitra Banerjee Divakaruni's reimagining of the Mahabharata, told from the perspective of Draupadi (Panchaali).",
+      "thumbnail": "https://m.media-amazon.com/images/I/81j1a-7n8gL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Novels"
+    },
+    {
+      "id": 39,
+      "title": "Brave New World",
+      "price": 299,
+      "description": "Aldous Huxley's dystopian novel exploring a future society genetically engineered into a caste system.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Novels"
+    },
+    {
+      "id": 40,
+      "title": "The God of Small Things",
+      "price": 390,
+      "description": "Arundhati Roy's Booker Prize-winning novel about the childhood experiences of fraternal twins in Kerala, India.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b-3W1m-8L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Novels"
+    },
+    {
+      "id": 41,
+      "title": "Animal Farm",
+      "price": 180,
+      "description": "George Orwell's allegorical novella where farm animals rebel against their human farmer, hoping to create a society of equality.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Novels"
+    },
+    {
+      "id": 42,
+      "title": "Train to Pakistan",
+      "price": 270,
+      "description": "Khushwant Singh's historical novel recounting the 1947 partition of India through the microcosm of a fictional village.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81o3G+3yZ6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Novels"
+    },
+    {
+      "id": 43,
+      "title": "The Lord of the Rings",
+      "price": 1200,
+      "description": "J.R.R. Tolkien's epic high-fantasy novel, chronicling the quest to destroy the One Ring.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Novels"
+    },
+    {
+      "id": 44,
+      "title": "One Hundred Years of Solitude",
+      "price": 550,
+      "description": "Gabriel García Márquez's landmark novel that tells the multi-generational story of the Buendía family in the town of Macondo.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81B-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Novels"
+    },
+    {
+      "id": 45,
+      "title": "Shantaram",
+      "price": 650,
+      "description": "Gregory David Roberts' novel about a convicted Australian bank robber who escapes and flees to the slums of Mumbai.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Novels"
+    }
+  ],
+  "EconomicsCommerce": [
+    {
+      "id": 46,
+      "title": "The Intelligent Investor",
+      "price": 650,
+      "description": "Benjamin Graham's classic on value investing, considered the stock market bible since its first publication.",
+      "thumbnail": "https://m.media-amazon.com/images/I/91+t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 47,
+      "title": "Freakonomics",
+      "price": 480,
+      "description": "Steven Levitt and Stephen Dubner explore the hidden side of everything, applying economic theory to diverse subjects.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 48,
+      "title": "Capital in the Twenty-First Century",
+      "price": 799,
+      "description": "Thomas Piketty's analysis of wealth and income inequality in Europe and the United States since the 18th century.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 49,
+      "title": "Thinking, Fast and Slow",
+      "price": 550,
+      "description": "Daniel Kahneman's exploration of the two systems that drive the way we think and make choices.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 50,
+      "title": "Indian Economy by Ramesh Singh",
+      "price": 680,
+      "description": "A comprehensive textbook on the Indian economy, widely used by civil services aspirants.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 51,
+      "title": "The Wealth of Nations",
+      "price": 350,
+      "description": "Adam Smith's foundational work in classical economics, exploring concepts like division of labor and the free market.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 52,
+      "title": "Zero to One",
+      "price": 450,
+      "description": "Peter Thiel's notes on startups, or how to build the future by creating new things.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 53,
+      "title": "Nudge: Improving Decisions about Health, Wealth, and Happiness",
+      "price": 520,
+      "description": "Richard Thaler and Cass Sunstein's book on behavioral economics and how to guide people toward better choices.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 54,
+      "title": "Principles of Economics by N. Gregory Mankiw",
+      "price": 999,
+      "description": "A popular introductory textbook in economics that covers both microeconomics and macroeconomics.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61W8j1w-P0L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 55,
+      "title": "The Lean Startup",
+      "price": 499,
+      "description": "Eric Ries's approach to creating and managing successful startups in an age of extreme uncertainty.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81B-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 56,
+      "title": "Good to Great",
+      "price": 600,
+      "description": "Jim Collins's study on why some companies make the leap to greatness and others don't.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b2-rZ-y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 57,
+      "title": "Doughnut Economics",
+      "price": 550,
+      "description": "Kate Raworth's seven ways to think like a 21st-century economist, challenging the foundations of mainstream economics.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 58,
+      "title": "Financial Accounting for Management",
+      "price": 580,
+      "description": "An essential textbook covering the fundamentals of financial accounting for commerce students and managers.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81o3G+3yZ6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 59,
+      "title": "The Black Swan",
+      "price": 530,
+      "description": "Nassim Nicholas Taleb's work on the impact of highly improbable events.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Economics & Commerce"
+    },
+    {
+      "id": 60,
+      "title": "Business Studies Class 12",
+      "price": 350,
+      "description": "NCERT textbook for Class 12, covering the principles and functions of management and business finance.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Economics & Commerce"
+    }
+  ],
+  "ReligiousBooks": [
+    {
+      "id": 61,
+      "title": "Bhagavad Gita As It Is",
+      "price": 350,
+      "description": "A.C. Bhaktivedanta Swami Prabhupada's translation and commentary on the sacred Hindu scripture, the Bhagavad Gita.",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Religious Books"
+    },
+    {
+      "id": 62,
+      "title": "The Holy Quran (English Translation)",
+      "price": 600,
+      "description": "An English translation of the central religious text of Islam, believed by Muslims to be a revelation from God (Allah).",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Religious Books"
+    },
+    {
+      "id": 63,
+      "title": "The Holy Bible (King James Version)",
+      "price": 750,
+      "description": "A classic English translation of the Christian Bible, known for its majestic style and literary beauty.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Religious Books"
+    },
+    {
+      "id": 64,
+      "title": "Autobiography of a Yogi",
+      "price": 280,
+      "description": "Paramahansa Yogananda's spiritual classic, introducing many to the teachings of meditation and Kriya Yoga.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Religious Books"
+    },
+    {
+      "id": 65,
+      "title": "The Ramayana: A Shortened Modern Prose Version",
+      "price": 450,
+      "description": "R.K. Narayan's retelling of the ancient Indian epic of Rama's quest to rescue his beloved wife Sita.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81j1a-7n8gL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Religious Books"
+    },
+    {
+      "id": 66,
+      "title": "The Tibetan Book of Living and Dying",
+      "price": 550,
+      "description": "Sogyal Rinpoche's comprehensive manual on life, death, and the spiritual path from the Tibetan Buddhist perspective.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Religious Books"
+    },
+    {
+      "id": 67,
+      "title": "Shri Guru Granth Sahib (English Translation)",
+      "price": 1500,
+      "description": "An English translation of the central religious scripture of Sikhism, regarded by Sikhs as the final, sovereign Guru.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71P412XX7LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Religious Books"
+    },
+    {
+      "id": 68,
+      "title": "The Dhammapada",
+      "price": 250,
+      "description": "A collection of sayings of the Buddha in verse form, one of the most widely read and best-known Buddhist scriptures.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Religious Books"
+    },
+    {
+      "id": 69,
+      "title": "The Upanishads: Breath of the Eternal",
+      "price": 380,
+      "description": "A translation by Swami Prabhavananda that captures the spiritual essence of the core philosophical texts of Hinduism.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71tC-BqD-GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Religious Books"
+    },
+    {
+      "id": 70,
+      "title": "The Book of Mormon",
+      "price": 400,
+      "description": "A sacred text of the Latter Day Saint movement, which contains writings of ancient prophets in the Americas.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "Religious Books"
+    },
+    {
+      "id": 71,
+      "title": "Mere Christianity",
+      "price": 420,
+      "description": "C.S. Lewis's classic work of Christian apologetics, adapted from a series of BBC radio talks.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71b2-rZ-y5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "Religious Books"
+    },
+    {
+      "id": 72,
+      "title": "The Art of Happiness by The Dalai Lama",
+      "price": 399,
+      "description": "A practical guide to achieving happiness through the teachings of the Dalai Lama, blending Buddhist wisdom with psychology.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "Religious Books"
+    },
+    {
+      "id": 73,
+      "title": "Tao Te Ching",
+      "price": 300,
+      "description": "Lao Tzu's foundational text of Taoism, offering profound wisdom on living in harmony with the natural way of the universe.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61N4d5t4BCL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "Religious Books"
+    },
+    {
+      "id": 74,
+      "title": "The Zohar (Abridged Edition)",
+      "price": 750,
+      "description": "An accessible edition of the foundational work in the literature of Jewish mystical thought known as Kabbalah.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Yv0-r7+jL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.4,
+      "category": "Religious Books"
+    },
+    {
+      "id": 75,
+      "title": "Srimad Bhagavatam (Canto 1)",
+      "price": 500,
+      "description": "The first canto of the epic Puranic text, revered in Vaishnavism, detailing the avatars of Vishnu.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "Religious Books"
+    }
+  ],
+  "ViewAllBooks": [
+    {
+      "id": 76,
+      "title": "A Brief History of Time",
+      "price": 480,
+      "description": "Stephen Hawking's classic work on cosmology, written for a general audience, exploring the origins and fate of the universe.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81n8fJ56MBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "View All Books"
+    },
+    {
+      "id": 77,
+      "title": "The Diary of a Young Girl",
+      "price": 280,
+      "description": "The writings from the diary of Anne Frank, a Jewish girl who hid from the Nazis with her family during World War II.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81B-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "View All Books"
+    },
+    {
+      "id": 78,
+      "title": "Wings of Fire",
+      "price": 250,
+      "description": "The autobiography of Dr. A.P.J. Abdul Kalam, the former President of India, covering his early life and career.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y-Ag3O-JL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "View All Books"
+    },
+    {
+      "id": 79,
+      "title": "The Immortals of Meluha",
+      "price": 350,
+      "description": "The first book in the Shiva Trilogy by Amish Tripathi, a fantasy reimagining of the Hindu deity Shiva as a tribal chief.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81f7aM+7nFL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "View All Books"
+    },
+    {
+      "id": 80,
+      "title": "Becoming",
+      "price": 699,
+      "description": "The memoir of former First Lady of the United States Michelle Obama, detailing her personal journey.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "View All Books"
+    },
+    {
+      "id": 81,
+      "title": "And Then There Were None",
+      "price": 320,
+      "description": "Agatha Christie's masterpiece of suspense, where ten strangers are lured to an isolated island and picked off one by one.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71j8q-6tq3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "View All Books"
+    },
+    {
+      "id": 82,
+      "title": "A Man Called Ove",
+      "price": 450,
+      "description": "Fredrik Backman's charming and moving novel about a grumpy yet lovable man whose solitary world is turned upside down.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71d3n0j-s-L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "View All Books"
+    },
+    {
+      "id": 83,
+      "title": "The Da Vinci Code",
+      "price": 499,
+      "description": "Dan Brown's thrilling novel that follows symbologist Robert Langdon as he uncovers a conspiracy hidden in the works of Leonardo da Vinci.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81B-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "View All Books"
+    },
+    {
+      "id": 84,
+      "title": "Cosmos",
+      "price": 750,
+      "description": "Carl Sagan's exploration of 15 billion years of cosmic evolution, transforming complex scientific ideas into accessible narratives.",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t6-8J-QVL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "View All Books"
+    },
+    {
+      "id": 85,
+      "title": "Guns, Germs, and Steel",
+      "price": 650,
+      "description": "Jared Diamond's Pulitzer Prize-winning book that argues geographical and environmental factors shaped the modern world.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81M+2m75BBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "View All Books"
+    },
+    {
+      "id": 86,
+      "title": "Where the Crawdads Sing",
+      "price": 520,
+      "description": "Delia Owens's novel about a young woman who grows up isolated in the marshes of North Carolina and becomes a murder suspect.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81V0ayJg-QL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.8,
+      "category": "View All Books"
+    },
+    {
+      "id": 87,
+      "title": "A Short History of Nearly Everything",
+      "price": 580,
+      "description": "Bill Bryson's journey through science, from the Big Bang to the rise of civilization, explaining it all in an accessible way.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81o3G+3yZ6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.7,
+      "category": "View All Books"
+    },
+    {
+      "id": 88,
+      "title": "The Girl with the Dragon Tattoo",
+      "price": 490,
+      "description": "Stieg Larsson's gripping psychological thriller that introduces the characters of Mikael Blomkvist and Lisbeth Salander.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71u9yHnDtDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.5,
+      "category": "View All Books"
+    },
+    {
+      "id": 89,
+      "title": "Educated: A Memoir",
+      "price": 550,
+      "description": "Tara Westover's memoir about her journey from growing up in a survivalist family in rural Idaho to earning a PhD from Cambridge.",
+      "thumbnail": "https://m.media-amazon.com/images/I/71sB-8o4qLqL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.9,
+      "category": "View All Books"
+    },
+    {
+      "id": 90,
+      "title": "The Silent Patient",
+      "price": 420,
+      "description": "Alex Michaelides's shocking psychological thriller about a psychotherapist's obsession with a famous painter who has gone silent.",
+      "thumbnail": "https://m.media-amazon.com/images/I/81n8fJ56MBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": 4.6,
+      "category": "View All Books"
+    }
+  ]
+}

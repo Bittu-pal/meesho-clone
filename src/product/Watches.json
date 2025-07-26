@@ -1,0 +1,184 @@
+{
+  "Watches": [
+    {
+      "id": 1,
+      "title": "Men's Luxury Chronograph Watch",
+      "price": 1899,
+      "description": "A sophisticated men's chronograph watch with a blue dial and silver stainless steel strap.",
+      "thumbnail": "https://images.meesho.com/images/products/204023187/tbkx5_512.avif?width=360",
+      "rating": 4.8,
+      "category": "Watches"
+    },
+    {
+      "id": 2,
+      "title": "Women's Rose Gold Mesh Strap Watch",
+      "price": 999,
+      "description": "Elegant and minimalist watch for women, featuring a rose gold mesh strap and a clean white dial.",
+      "thumbnail": "https://images.meesho.com/images/products/185858348/l8qpf_400.webp",
+      "rating": 4.6,
+      "category": "Watches"
+    },
+    {
+      "id": 3,
+      "title": "Classic Men's Brown Leather Watch",
+      "price": 749,
+      "description": "A timeless timepiece with a genuine brown leather strap and a bold, easy-to-read analog display.",
+      "thumbnail": "https://images.meesho.com/images/products/172605389/czzfb_400.webp",
+      "rating": 4.5,
+      "category": "Watches"
+    },
+    {
+      "id": 4,
+      "title": "Digital LED Sports Watch",
+      "price": 599,
+      "description": "A rugged and sporty digital watch with a comfortable silicone band and multiple functions like alarm and stopwatch.",
+      "thumbnail": "https://images.meesho.com/images/products/193245466/2e0lh_400.webp",
+      "rating": 4.3,
+      "category": "Watches"
+    },
+    {
+      "id": 5,
+      "title": "Women's Diamond-Studded Bracelet Watch",
+      "price": 1299,
+      "description": "A luxurious and stylish watch that serves as a beautiful bracelet, adorned with sparkling stones.",
+      "thumbnail": "https://images.meesho.com/images/products/265500052/245r3_400.webp",
+      "rating": 4.7,
+      "category": "Watches"
+    },
+    {
+      "id": 6,
+      "title": "Unisex Black Smartwatch",
+      "price": 2199,
+      "description": "A versatile smartwatch with fitness tracking, heart rate monitoring, and call notification features.",
+      "thumbnail": "https://images.meesho.com/images/products/295963969/808lq_400.webp",
+      "rating": 4.5,
+      "category": "Watches"
+    },
+    {
+      "id": 7,
+      "title": "Men's All-Black Analog Watch",
+      "price": 899,
+      "description": "A sleek and modern all-black watch, perfect for creating a bold and minimalist style statement.",
+      "thumbnail": "https://images.meesho.com/images/products/298492083/c9e9u_400.webp",
+      "rating": 4.4,
+      "category": "Watches"
+    },
+    {
+      "id": 8,
+      "title": "Women's Floral Dial Leather Watch",
+      "price": 699,
+      "description": "A charming watch for women with a beautiful floral dial and a soft, comfortable leather strap.",
+      "thumbnail": "https://images.meesho.com/images/products/310332884/k5gke_400.webp",
+      "rating": 4.3,
+      "category": "Watches"
+    },
+    {
+      "id": 9,
+      "title": "Men's Silver Chain Watch",
+      "price": 1150,
+      "description": "A classic and durable men's watch with a silver stainless steel chain and a clear analog display.",
+      "thumbnail": "https://images.meesho.com/images/products/272782012/vhywy_400.webp",
+      "rating": 4.6,
+      "category": "Watches"
+    },
+    {
+      "id": 10,
+      "title": "Women's Magnetic Starry Sky Watch",
+      "price": 799,
+      "description": "A unique and fashionable watch featuring a glittering starry dial and an easy-to-use magnetic strap.",
+      "thumbnail": "https://images.meesho.com/images/products/167296061/ds35j_400.webp",
+      "rating": 4.2,
+      "category": "Watches"
+    },
+    {
+      "id": 11,
+      "title": "Men's Automatic Skeleton Watch",
+      "price": 2599,
+      "description": "A premium automatic watch with a 'skeleton' dial that reveals the intricate inner workings.",
+      "thumbnail": "https://images.meesho.com/images/products/106297380/j8vut_400.webp",
+      "rating": 4.8,
+      "category": "Watches"
+    },
+    {
+      "id": 12,
+      "title": "Kids' Spiderman Projector Watch",
+      "price": 499,
+      "description": "A fun projector watch for kids that displays 24 different Spiderman images with the press of a button.",
+      "thumbnail": "https://images.meesho.com/images/products/317357493/w0vut_400.webp",
+      "rating": 4.1,
+      "category": "Watches"
+    },
+    {
+      "id": 13,
+      "title": "Gold-Plated Women's Analog Watch",
+      "price": 950,
+      "description": "A timeless and elegant gold-plated watch for women, perfect for weddings and formal events.",
+      "thumbnail": "https://images.meesho.com/images/products/314352277/9g6y2_400.webp",
+      "rating": 4.5,
+      "category": "Watches"
+    },
+    {
+      "id": 14,
+      "title": "Couple's Matching Watch Set",
+      "price": 1699,
+      "description": "A beautiful set of two matching watches for couples, symbolizing shared time and love.",
+      "thumbnail": "https://images.meesho.com/images/products/235882041/198x8_400.webp",
+      "rating": 4.6,
+      "category": "Watches"
+    },
+    {
+      "id": 15,
+      "title": "Men's Square Dial Leather Watch",
+      "price": 849,
+      "description": "A stylish watch with a unique square dial and a high-quality leather strap for a distinguished look.",
+      "thumbnail": "https://images.meesho.com/images/products/350756306/lajb8_400.webp",
+      "rating": 4.4,
+      "category": "Watches"
+    },
+    {
+      "id": 16,
+      "title": "Women's Slim Silver Watch",
+      "price": 880,
+      "description": "A delicate and slim watch with a silver band, perfect for a subtle and sophisticated style.",
+      "thumbnail": "https://images.meesho.com/images/products/159781989/z7xje_400.webp",
+      "rating": 4.3,
+      "category": "Watches"
+    },
+    {
+      "id": 17,
+      "title": "Rugged Outdoor Sports Watch",
+      "price": 999,
+      "description": "A durable, shock-resistant and water-resistant sports watch designed for outdoor adventures.",
+      "thumbnail": "https://images.meesho.com/images/products/329532556/4c9fa_400.webp",
+      "rating": 4.5,
+      "category": "Watches"
+    },
+    {
+      "id": 18,
+      "title": "Men's Black Metal Strap Watch",
+      "price": 1350,
+      "description": "A bold and powerful men's watch featuring a black metal strap and a matching black dial.",
+      "thumbnail": "https://images.meesho.com/images/products/397197059/z6rfw_400.webp",
+      "rating": 4.7,
+      "category": "Watches"
+    },
+    {
+      "id": 19,
+      "title": "Women's Oval Dial Bracelet Watch",
+      "price": 1050,
+      "description": "An exquisite watch with a unique oval-shaped dial and an intricately designed bracelet strap.",
+      "thumbnail": "https://images.meesho.com/images/products/314175344/vj9iv_400.webp",
+      "rating": 4.4,
+      "category": "Watches"
+    },
+    {
+      "id": 20,
+      "title": "Military Style Green Canvas Strap Watch",
+      "price": 799,
+      "description": "A functional and fashionable watch with a military-inspired design and a durable green canvas strap.",
+      "thumbnail": "https://images.meesho.com/images/products/311652199/3h49j_400.webp",
+      "rating": 4.3,
+      "category": "Watches"
+    }
+  ]
+}

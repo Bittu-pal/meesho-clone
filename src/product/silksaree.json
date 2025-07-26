@@ -1,0 +1,214 @@
+{"silksarees":
+[
+{
+  "id": 1,
+  "title": "Silk Saree 1",
+  "price": 1499,
+  "rating": 4.3,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 2,
+  "title": "Silk Saree 2",
+  "price": 1799,
+  "rating": 4.5,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 3,
+  "title": "Silk Saree 3",
+  "price": 1299,
+  "rating": 4.1,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 4,
+  "title": "Silk Saree 4",
+  "price": 1999,
+  "rating": 4.4,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 5,
+  "title": "Silk Saree 5",
+  "price": 2499,
+  "rating": 4.6,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 6,
+  "title": "Silk Saree 6",
+  "price": 999,
+  "rating": 4.0,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 7,
+  "title": "Silk Saree 7",
+  "price": 2999,
+  "rating": 4.7,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 8,
+  "title": "Silk Saree 8",
+  "price": 1899,
+  "rating": 4.3,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 9,
+  "title": "Silk Saree 9",
+  "price": 1599,
+  "rating": 4.2,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 10,
+  "title": "Silk Saree 10",
+  "price": 2099,
+  "rating": 4.5,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 11,
+  "title": "Silk Saree 11",
+  "price": 1899,
+  "rating": 4.1,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 12,
+  "title": "Silk Saree 12",
+  "price": 2399,
+  "rating": 4.4,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 13,
+  "title": "Silk Saree 13",
+  "price": 2799,
+  "rating": 4.6,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 14,
+  "title": "Silk Saree 14",
+  "price": 1299,
+  "rating": 3.9,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 15,
+  "title": "Silk Saree 15",
+  "price": 1999,
+  "rating": 4.2,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 16,
+  "title": "Silk Saree 16",
+  "price": 2499,
+  "rating": 4.3,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 17,
+  "title": "Silk Saree 17",
+  "price": 1799,
+  "rating": 4.1,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 18,
+  "title": "Silk Saree 18",
+  "price": 2699,
+  "rating": 4.5,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 19,
+  "title": "Silk Saree 19",
+  "price": 2999,
+  "rating": 4.7,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 20,
+  "title": "Silk Saree 20",
+  "price": 1599,
+  "rating": 4.2,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 21,
+  "title": "Silk Saree 21",
+  "price": 1999,
+  "rating": 4.4,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 22,
+  "title": "Silk Saree 22",
+  "price": 2299,
+  "rating": 4.3,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+} ,
+{
+  "id": 23,
+  "title": "Silk Saree 23",
+  "price": 2499,
+  "rating": 4.5,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 24,
+  "title": "Silk Saree 24",
+  "price": 2799,
+  "rating": 4.7,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 25,
+  "title": "Silk Saree 25",
+  "price": 1399,
+  "rating": 3.9,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 26,
+  "title": "Silk Saree 26",
+  "price": 1999,
+  "rating": 4.2,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 27,
+  "title": "Silk Saree 27",
+  "price": 2699,
+  "rating": 4.4,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 28,
+  "title": "Silk Saree 28",
+  "price": 1899,
+  "rating": 4.0,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 29,
+  "title": "Silk Saree 29",
+  "price": 2999,
+  "rating": 4.6,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+},
+{
+  "id": 30,
+  "title": "Silk Saree 30",
+  "price": 3499,
+  "rating": 4.8,
+  "thumbnail": "https://images.meesho.com/images/products/514519670/os5bo_400.webp"
+}
+]
+}

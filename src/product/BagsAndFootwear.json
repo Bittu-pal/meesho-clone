@@ -1,0 +1,961 @@
+{
+  "AllWomenBags": [
+    {
+      "id": 1,
+      "title": "Elegant Leather Tote",
+      "price": 4500,
+      "description": "A spacious and stylish black leather tote bag, perfect for work and everyday use. Features multiple compartments and a premium finish.",
+      "thumbnail": "https://i.etsystatic.com/39294281/r/il/66794a/5574573581/il_794xN.5574573581_k5qn.jpg",
+      "rating": 4.6,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 2,
+      "title": "Chic Canvas Shoulder Bag",
+      "price": 2800,
+      "description": "A casual and chic beige canvas shoulder bag. Lightweight and durable for daily errands, with a comfortable shoulder strap.",
+      "thumbnail": "https://www.leohout.com/wp-content/uploads/2023/11/Tote-Bag-Toile-Beige-e1699540051759.jpg",
+      "rating": 4.4,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 3,
+      "title": "Modern Crossbody Bag",
+      "price": 3200,
+      "description": "Tan faux-leather crossbody bag with an adjustable strap. A modern accessory for a hands-free experience and compact storage.",
+      "thumbnail": "https://images.meesho.com/images/products/476832261/8hfmg_400.webp",
+      "rating": 4.5,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 4,
+      "title": "Stylish Satchel Handbag",
+      "price": 3800,
+      "description": "Maroon suede satchel with a classic design. Versatile for both formal and casual outings, featuring a top handle and a detachable strap.",
+      "thumbnail": "https://images.meesho.com/images/products/478491879/vbyzl_400.webp",
+      "rating": 4.7,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 5,
+      "title": "Designer Hobo Bag",
+      "price": 6500,
+      "description": "A navy blue hobo bag made from pebbled leather. Offers a relaxed silhouette with a luxe feel and a roomy interior.",
+      "thumbnail": "https://images.meesho.com/images/products/497741364/ljrsc_400.webp",
+      "rating": 4.8,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 6,
+      "title": "Trendy Backpack Purse",
+      "price": 3500,
+      "description": "Olive green nylon backpack that doubles as a purse. Stylish, functional, and perfect for travel or city exploration.",
+      "thumbnail": "https://images.meesho.com/images/products/268574939/jplob_400.webp",
+      "rating": 4.3,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 7,
+      "title": "Compact Clutch Wallet",
+      "price": 2200,
+      "description": "A sleek silver clutch made from metallic fabric, ideal for evenings out, weddings, and parties. Comes with a chain strap.",
+      "thumbnail": "https://images.meesho.com/images/products/492728994/2k3vl_400.webp",
+      "rating": 4.2,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 8,
+      "title": "Spacious Shopper Tote",
+      "price": 2500,
+      "description": "A large, striped cotton shopper tote. Your perfect companion for beach days and shopping sprees, with sturdy handles.",
+      "thumbnail": "https://images.meesho.com/images/products/491959325/hhtcb_400.webp",
+      "rating": 4.5,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 9,
+      "title": "Bohemian Fringe Bag",
+      "price": 3100,
+      "description": "Brown faux suede bag with fringe details, capturing a true bohemian spirit. Perfect for festivals and casual wear.",
+      "thumbnail": "https://images.meesho.com/images/products/338271711/kpy1v_400.webp",
+      "rating": 4.1,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 10,
+      "title": "Minimalist Wristlet",
+      "price": 1800,
+      "description": "A simple yet elegant grey PU leather wristlet for carrying your essentials like phone, cards, and keys.",
+      "thumbnail": "https://images.meesho.com/images/products/169006939/kqsji_400.webp",
+      "rating": 4.0,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 11,
+      "title": "Quilted Chain Bag",
+      "price": 4200,
+      "description": "A classic red quilted bag with a gold chain strap. An icon of timeless style that elevates any look.",
+      "thumbnail": "https://images.meesho.com/images/products/498993279/ozkuy_400.webp",
+      "rating": 4.6,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 12,
+      "title": "Foldover Sequin Clutch",
+      "price": 2000,
+      "description": "Dazzling gold sequin clutch that folds over. The perfect accessory for a glamorous night out.",
+      "thumbnail": "https://images.meesho.com/images/products/494924716/nbwuw_400.webp",
+      "rating": 4.3,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 13,
+      "title": "Laptop Tote Bag",
+      "price": 4800,
+      "description": "A functional and stylish laptop tote in charcoal polyester, with a padded compartment to protect your device.",
+      "thumbnail": "https://images.meesho.com/images/products/144682061/n3ulj_400.webp",
+      "rating": 4.7,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 14,
+      "title": "Bucket Bag with Drawstring",
+      "price": 3300,
+      "description": "Mustard yellow canvas bucket bag with a secure drawstring closure. A casual and trendy choice for everyday style.",
+      "thumbnail": "https://images.meesho.com/images/products/321820640/3xxnu_400.webp",
+      "rating": 4.4,
+      "category": "All Women Bags"
+    },
+    {
+      "id": 15,
+      "title": "Vintage-Inspired Frame Bag",
+      "price": 3900,
+      "description": "A beautiful teal velvet frame bag with a metal clasp that adds a touch of vintage elegance to any outfit.",
+      "thumbnail": "https://images.meesho.com/images/products/447385959/lnhb9_400.webp",
+      "rating": 4.5,
+      "category": "All Women Bags"
+    }
+  ],
+  "Handbags": [
+    {
+      "id": 16,
+      "title": "Classic Leather Satchel",
+      "price": 4200,
+      "description": "A timeless brown satchel made from genuine leather. Structured, sophisticated, and perfect for the professional woman.",
+      "thumbnail": "https://images.meesho.com/images/products/202153942/g6hhm_400.webp",
+      "rating": 4.8,
+      "category": "Handbags"
+    },
+    {
+      "id": 17,
+      "title": "Dome Satchel",
+      "price": 3500,
+      "description": "A structured dome satchel in a lovely pink shade, crafted from high-quality faux leather with gold-tone hardware.",
+      "thumbnail": "https://images.meesho.com/images/products/497495393/d12ld_400.webp",
+      "rating": 4.5,
+      "category": "Handbags"
+    },
+    {
+      "id": 18,
+      "title": "Tote with Scarf",
+      "price": 2900,
+      "description": "An elegant white PU leather tote, accessorized with a beautiful printed silk scarf for a touch of class.",
+      "thumbnail": "https://images.meesho.com/images/products/494924729/h6z4f_400.webp",
+      "rating": 4.3,
+      "category": "Handbags"
+    },
+    {
+      "id": 19,
+      "title": "Work Handbag",
+      "price": 5000,
+      "description": "A sleek black leather handbag designed for work, with compartments for a laptop, files, and other essentials.",
+      "thumbnail": "https://images.meesho.com/images/products/144682061/n3ulj_400.webp",
+      "rating": 4.9,
+      "category": "Handbags"
+    },
+    {
+      "id": 20,
+      "title": "Hobo Shoulder Bag",
+      "price": 3300,
+      "description": "A relaxed-fit tan hobo bag in soft suede. Comfortable to carry on the shoulder and spacious inside.",
+      "thumbnail": "https://images.meesho.com/images/products/497741364/ljrsc_400.webp",
+      "rating": 4.4,
+      "category": "Handbags"
+    },
+    {
+      "id": 21,
+      "title": "Structured Top-Handle Bag",
+      "price": 5800,
+      "description": "A statement red handbag in patent leather with a structured silhouette and a firm top handle.",
+      "thumbnail": "https://images.meesho.com/images/products/482813589/22yj1_400.webp",
+      "rating": 4.7,
+      "category": "Handbags"
+    },
+    {
+      "id": 22,
+      "title": "Canvas Shopper Handbag",
+      "price": 2300,
+      "description": "Durable and stylish navy blue canvas shopper. Ideal for daily use, with plenty of room for all your belongings.",
+      "thumbnail": "https://images.meesho.com/images/products/491959325/hhtcb_400.webp",
+      "rating": 4.2,
+      "category": "Handbags"
+    },
+    {
+      "id": 23,
+      "title": "Quilted Shoulder Handbag",
+      "price": 4100,
+      "description": "A chic shoulder handbag in a cream quilted faux leather finish, with an elegant chain and leather strap.",
+      "thumbnail": "https://images.meesho.com/images/products/498993279/ozkuy_400.webp",
+      "rating": 4.6,
+      "category": "Handbags"
+    },
+    {
+      "id": 24,
+      "title": "Mini Handbag",
+      "price": 2500,
+      "description": "A vibrant yellow mini handbag. A trendy accessory that adds a pop of color to your outfit.",
+      "thumbnail": "https://images.meesho.com/images/products/494191632/ifqcp_400.webp",
+      "rating": 4.1,
+      "category": "Handbags"
+    },
+    {
+      "id": 25,
+      "title": "Woven Straw Handbag",
+      "price": 2800,
+      "description": "A beautiful hand-woven straw handbag, perfect for summer days, beach trips, and picnics.",
+      "thumbnail": "https://images.meesho.com/images/products/322238407/q3z4n_400.webp",
+      "rating": 4.5,
+      "category": "Handbags"
+    },
+    {
+      "id": 26,
+      "title": "Barrel Handbag",
+      "price": 3600,
+      "description": "A uniquely shaped barrel handbag in green faux leather. A retro-inspired piece for the fashion-forward.",
+      "thumbnail": "https://images.meesho.com/images/products/394336021/q6wdi_400.webp",
+      "rating": 4.3,
+      "category": "Handbags"
+    },
+    {
+      "id": 27,
+      "title": "Clear Tote Handbag",
+      "price": 2100,
+      "description": "A modern, transparent PVC tote handbag with black trim. Stadium-approved and stylishly clear.",
+      "thumbnail": "https://images.meesho.com/images/products/338271708/1jdrz_400.webp",
+      "rating": 4.0,
+      "category": "Handbags"
+    },
+    {
+      "id": 28,
+      "title": "Embroidered Handbag",
+      "price": 4500,
+      "description": "A stunning fabric handbag with intricate multicolor embroidery, showcasing artisanal craftsmanship.",
+      "thumbnail": "https://images.meesho.com/images/products/496245903/j0mzz_400.webp",
+      "rating": 4.8,
+      "category": "Handbags"
+    },
+    {
+      "id": 29,
+      "title": "Doctor Style Handbag",
+      "price": 4800,
+      "description": "A vintage-inspired doctor-style handbag in rich burgundy leather, featuring a hinged frame opening.",
+      "thumbnail": "https://images.meesho.com/images/products/498993297/j8q5s_400.webp",
+      "rating": 4.7,
+      "category": "Handbags"
+    },
+    {
+      "id": 30,
+      "title": "Two-Tone Satchel",
+      "price": 3900,
+      "description": "A striking black and white two-tone satchel in PU leather. A bold accessory for a modern look.",
+      "thumbnail": "https://images.meesho.com/images/products/494924729/h6z4f_400.webp",
+      "rating": 4.5,
+      "category": "Handbags"
+    }
+  ],
+  "Clutches": [
+    {
+      "id": 31,
+      "title": "Glitter Box Clutch",
+      "price": 2500,
+      "description": "A stunning gold glitter box clutch, perfect for weddings, parties, and evening events. Includes a detachable chain.",
+      "thumbnail": "https://images.meesho.com/images/products/498993352/iweef_400.webp",
+      "rating": 4.7,
+      "category": "Clutches"
+    },
+    {
+      "id": 32,
+      "title": "Envelope Clutch",
+      "price": 1900,
+      "description": "A classic black envelope clutch in faux leather. Sleek, simple, and always in style for any occasion.",
+      "thumbnail": "https://images.meesho.com/images/products/193247072/kdkie_400.webp",
+      "rating": 4.4,
+      "category": "Clutches"
+    },
+    {
+      "id": 33,
+      "title": "Beaded Pearl Clutch",
+      "price": 3500,
+      "description": "An exquisite ivory clutch adorned with beads and pearls on a satin base. The epitome of elegance.",
+      "thumbnail": "https://images.meesho.com/images/products/497495390/hysuv_400.webp",
+      "rating": 4.9,
+      "category": "Clutches"
+    },
+    {
+      "id": 34,
+      "title": "Satin Foldover Clutch",
+      "price": 2200,
+      "description": "A luxurious foldover clutch in royal blue satin. A sophisticated accessory for formal events.",
+      "thumbnail": "https://images.meesho.com/images/products/492728994/2k3vl_400.webp",
+      "rating": 4.5,
+      "category": "Clutches"
+    },
+    {
+      "id": 35,
+      "title": "Tassel Clutch",
+      "price": 2300,
+      "description": "A fun and stylish red faux suede clutch featuring a large tassel detail on the zipper.",
+      "thumbnail": "https://images.meesho.com/images/products/338271711/kpy1v_400.webp",
+      "rating": 4.2,
+      "category": "Clutches"
+    },
+    {
+      "id": 36,
+      "title": "Acrylic Box Clutch",
+      "price": 3000,
+      "description": "A modern and chic box clutch made from marbled pink acrylic, with a gold-tone clasp.",
+      "thumbnail": "https://images.meesho.com/images/products/447385959/lnhb9_400.webp",
+      "rating": 4.6,
+      "category": "Clutches"
+    },
+    {
+      "id": 37,
+      "title": "Metallic Minaudière",
+      "price": 2800,
+      "description": "A hard-cased metallic minaudière in a polished silver finish. A sculptural and glamorous accessory.",
+      "thumbnail": "https://images.meesho.com/images/products/169006939/kqsji_400.webp",
+      "rating": 4.7,
+      "category": "Clutches"
+    },
+    {
+      "id": 38,
+      "title": "Wooden Clutch",
+      "price": 3200,
+      "description": "An eco-chic and unique clutch crafted from natural wood, featuring an intricate engraved design.",
+      "thumbnail": "https://images.meesho.com/images/products/321820640/3xxnu_400.webp",
+      "rating": 4.8,
+      "category": "Clutches"
+    },
+    {
+      "id": 39,
+      "title": "Embroidered Pouch Clutch",
+      "price": 2600,
+      "description": "A soft cotton pouch clutch with vibrant, traditional Indian embroidery and a zip-top closure.",
+      "thumbnail": "https://images.meesho.com/images/products/496245903/j0mzz_400.webp",
+      "rating": 4.5,
+      "category": "Clutches"
+    },
+    {
+      "id": 40,
+      "title": "Velvet Clutch",
+      "price": 2400,
+      "description": "A plush and luxurious clutch in rich emerald green velvet, perfect for autumn and winter events.",
+      "thumbnail": "https://images.meesho.com/images/products/494924716/nbwuw_400.webp",
+      "rating": 4.6,
+      "category": "Clutches"
+    },
+    {
+      "id": 41,
+      "title": "Rhinestone Clutch",
+      "price": 3800,
+      "description": "A fully encrusted rhinestone clutch that sparkles from every angle. The ultimate statement piece.",
+      "thumbnail": "https://images.meesho.com/images/products/498993352/iweef_400.webp",
+      "rating": 4.9,
+      "category": "Clutches"
+    },
+    {
+      "id": 42,
+      "title": "Leather Wristlet Clutch",
+      "price": 2900,
+      "description": "A practical and stylish wristlet clutch made from genuine tan leather, with slots for cards and a phone.",
+      "thumbnail": "https://images.meesho.com/images/products/193247072/kdkie_400.webp",
+      "rating": 4.7,
+      "category": "Clutches"
+    },
+    {
+      "id": 43,
+      "title": "Floral Print Clutch",
+      "price": 2100,
+      "description": "A bright and cheerful clutch with a pink floral print on canvas. Perfect for spring and summer.",
+      "thumbnail": "https://images.meesho.com/images/products/497495390/hysuv_400.webp",
+      "rating": 4.3,
+      "category": "Clutches"
+    },
+    {
+      "id": 44,
+      "title": "Cage Sphere Clutch",
+      "price": 4200,
+      "description": "An architectural cage sphere clutch in gold metal. A unique and high-fashion evening bag.",
+      "thumbnail": "https://images.meesho.com/images/products/447385959/lnhb9_400.webp",
+      "rating": 4.8,
+      "category": "Clutches"
+    },
+    {
+      "id": 45,
+      "title": "Simple Suede Clutch",
+      "price": 2000,
+      "description": "An understated clutch in soft grey faux suede. Its simplicity makes it incredibly versatile.",
+      "thumbnail": "https://images.meesho.com/images/products/169006939/kqsji_400.webp",
+      "rating": 4.4,
+      "category": "Clutches"
+    }
+  ],
+  "MenWallets": [
+    {
+      "id": 46,
+      "title": "Classic Bifold Leather Wallet",
+      "price": 1500,
+      "description": "A traditional bifold wallet in black genuine leather with multiple card slots and a currency compartment.",
+      "thumbnail": "https://images.meesho.com/images/products/263590509/fgzrn_400.webp",
+      "rating": 4.7,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 47,
+      "title": "Slim Minimalist Wallet",
+      "price": 1200,
+      "description": "An ultra-slim brown leather wallet designed for the modern minimalist. Holds essential cards and cash without the bulk.",
+      "thumbnail": "https://images.meesho.com/images/products/491564344/b30oz_400.webp",
+      "rating": 4.6,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 48,
+      "title": "Trifold Wallet with ID Window",
+      "price": 1800,
+      "description": "A spacious tan leather trifold wallet featuring a convenient flip-out ID window and numerous card slots.",
+      "thumbnail": "https://images.meesho.com/images/products/481077755/e8tvr_400.webp",
+      "rating": 4.5,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 49,
+      "title": "RFID Blocking Wallet",
+      "price": 2200,
+      "description": "Protect your personal information with this RFID-blocking wallet, designed with a sleek carbon fiber finish.",
+      "thumbnail": "https://images.meesho.com/images/products/487363984/pknw2_400.webp",
+      "rating": 4.8,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 50,
+      "title": "Money Clip Wallet",
+      "price": 1300,
+      "description": "A dark brown faux leather wallet combining card slots with a sturdy, integrated money clip for a streamlined profile.",
+      "thumbnail": "https://images.meesho.com/images/products/462719273/6rvmf_400.webp",
+      "rating": 4.3,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 51,
+      "title": "Zippered Long Wallet",
+      "price": 2500,
+      "description": "A long, zippered wallet in navy blue nylon, perfect for travel. It securely holds a passport, cash, and multiple cards.",
+      "thumbnail": "https://images.meesho.com/images/products/491129999/r4uub_400.webp",
+      "rating": 4.4,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 52,
+      "title": "Cardholder Wallet",
+      "price": 900,
+      "description": "A minimalist aluminum cardholder in grey that protects cards from bending and features a quick-access mechanism.",
+      "thumbnail": "https://images.meesho.com/images/products/491564344/b30oz_400.webp",
+      "rating": 4.2,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 53,
+      "title": "Vintage Leather Wallet",
+      "price": 1900,
+      "description": "A bifold wallet made from distressed brown 'Crazy Horse' leather that develops a unique patina over time.",
+      "thumbnail": "https://images.meesho.com/images/products/481077755/e8tvr_400.webp",
+      "rating": 4.7,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 54,
+      "title": "Canvas Bifold Wallet",
+      "price": 800,
+      "description": "A casual and durable bifold wallet made from olive green canvas, perfect for everyday use.",
+      "thumbnail": "https://images.meesho.com/images/products/263590509/fgzrn_400.webp",
+      "rating": 4.0,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 55,
+      "title": "Designer Logo Wallet",
+      "price": 4500,
+      "description": "A premium black wallet in coated canvas, featuring a subtle designer logo pattern for a touch of luxury.",
+      "thumbnail": "https://images.meesho.com/images/products/462719273/6rvmf_400.webp",
+      "rating": 4.8,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 56,
+      "title": "Passport Holder Wallet",
+      "price": 2100,
+      "description": "A smart travel essential, this brown PU leather wallet is designed to hold your passport, tickets, and cards securely.",
+      "thumbnail": "https://images.meesho.com/images/products/491129999/r4uub_400.webp",
+      "rating": 4.5,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 57,
+      "title": "Wallet with Coin Pocket",
+      "price": 1600,
+      "description": "A functional black leather wallet that includes a dedicated snap-button pocket for coins, in addition to card slots.",
+      "thumbnail": "https://images.meesho.com/images/products/263590509/fgzrn_400.webp",
+      "rating": 4.4,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 58,
+      "title": "Tactical Wallet",
+      "price": 2800,
+      "description": "A rugged tactical wallet constructed from matte black metal, designed for durability and a minimalist aesthetic.",
+      "thumbnail": "https://images.meesho.com/images/products/487363984/pknw2_400.webp",
+      "rating": 4.6,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 59,
+      "title": "Two-Tone Leather Wallet",
+      "price": 1700,
+      "description": "A stylish leather wallet featuring a modern two-tone design with a blue exterior and brown interior.",
+      "thumbnail": "https://images.meesho.com/images/products/491564344/b30oz_400.webp",
+      "rating": 4.3,
+      "category": "Men Wallets"
+    },
+    {
+      "id": 60,
+      "title": "Engravable Wallet",
+      "price": 2000,
+      "description": "A beautiful walnut leather wallet that can be personalized with an engraving, making it a perfect gift.",
+      "thumbnail": "https://images.meesho.com/images/products/481077755/e8tvr_400.webp",
+      "rating": 4.7,
+      "category": "Men Wallets"
+    }
+  ],
+  "CrossbodyBagsSlingBags": [
+    {
+      "id": 61,
+      "title": "Leather Crossbody Bag",
+      "price": 3400,
+      "description": "A versatile black leather crossbody bag with an adjustable strap and multiple zippered compartments for organization.",
+      "thumbnail": "https://images.meesho.com/images/products/494924719/c09t1_400.webp",
+      "rating": 4.6,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 62,
+      "title": "Canvas Sling Bag",
+      "price": 2200,
+      "description": "A durable khaki canvas sling bag, perfect for hiking, cycling, or casual day trips. Lightweight and comfortable to wear.",
+      "thumbnail": "https://images.meesho.com/images/products/492582761/96fzc_400.webp",
+      "rating": 4.4,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 63,
+      "title": "Mini Camera Bag Style",
+      "price": 2800,
+      "description": "A trendy, camera-bag-style crossbody in mustard faux leather. Compact yet spacious enough for your essentials.",
+      "thumbnail": "https://images.meesho.com/images/products/476832261/8hfmg_400.webp",
+      "rating": 4.5,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 64,
+      "title": "Nylon Multi-Pocket Crossbody",
+      "price": 2500,
+      "description": "A practical grey nylon crossbody bag with multiple pockets, keeping your items organized and easily accessible.",
+      "thumbnail": "https://images.meesho.com/images/products/268574939/jplob_400.webp",
+      "rating": 4.3,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 65,
+      "title": "Men's Chest Sling Bag",
+      "price": 2900,
+      "description": "A sleek black PU leather chest sling bag for men, offering a modern, urban look and hands-free convenience.",
+      "thumbnail": "https://images.meesho.com/images/products/492582761/96fzc_400.webp",
+      "rating": 4.7,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 66,
+      "title": "Round Rattan Crossbody",
+      "price": 3100,
+      "description": "A handwoven round rattan crossbody bag with a leather strap, perfect for a bohemian, summery vibe.",
+      "thumbnail": "https://images.meesho.com/images/products/322238407/q3z4n_400.webp",
+      "rating": 4.8,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 67,
+      "title": "Saddle Crossbody Bag",
+      "price": 3600,
+      "description": "A classic saddle-shaped crossbody bag in rich tan suede with stylish buckle detailing.",
+      "thumbnail": "https://images.meesho.com/images/products/497741364/ljrsc_400.webp",
+      "rating": 4.6,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 68,
+      "title": "Convertible Belt/Crossbody Bag",
+      "price": 3000,
+      "description": "A versatile white faux leather bag that can be worn as a crossbody or converted into a stylish belt bag.",
+      "thumbnail": "https://images.meesho.com/images/products/494924729/h6z4f_400.webp",
+      "rating": 4.4,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 69,
+      "title": "Phone Crossbody Pouch",
+      "price": 1500,
+      "description": "A small pink PU leather pouch designed to carry just your smartphone and a few cards, with a long crossbody strap.",
+      "thumbnail": "https://images.meesho.com/images/products/494191632/ifqcp_400.webp",
+      "rating": 4.1,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 70,
+      "title": "Anti-Theft Sling Bag",
+      "price": 3800,
+      "description": "Travel with peace of mind with this anti-theft sling bag, made from cut-proof fabric with hidden zippers.",
+      "thumbnail": "https://images.meesho.com/images/products/492582761/96fzc_400.webp",
+      "rating": 4.8,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 71,
+      "title": "Quilted Chain Strap Crossbody",
+      "price": 3900,
+      "description": "An elegant red quilted crossbody bag featuring a classic gold-tone chain strap for a sophisticated look.",
+      "thumbnail": "https://images.meesho.com/images/products/498993279/ozkuy_400.webp",
+      "rating": 4.7,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 72,
+      "title": "Bohemian Fringe Crossbody",
+      "price": 3300,
+      "description": "A brown faux suede crossbody with layers of fringe, embodying a carefree, bohemian style.",
+      "thumbnail": "https://images.meesho.com/images/products/338271711/kpy1v_400.webp",
+      "rating": 4.3,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 73,
+      "title": "Sporty Sling Bag",
+      "price": 1900,
+      "description": "A lightweight blue polyester sling bag with a sporty design, great for the gym, jogging, or running errands.",
+      "thumbnail": "https://images.meesho.com/images/products/268574939/jplob_400.webp",
+      "rating": 4.2,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 74,
+      "title": "Clear Crossbody for Stadiums",
+      "price": 1800,
+      "description": "A transparent PVC crossbody bag that meets stadium and event security requirements, with color trim options.",
+      "thumbnail": "https://images.meesho.com/images/products/338271708/1jdrz_400.webp",
+      "rating": 4.0,
+      "category": "Crossbody Bags & Sling Bags"
+    },
+    {
+      "id": 75,
+      "title": "Bucket Style Crossbody",
+      "price": 3200,
+      "description": "A casual bucket-style crossbody bag in olive green canvas with a drawstring closure and an adjustable strap.",
+      "thumbnail": "https://images.meesho.com/images/products/321820640/3xxnu_400.webp",
+      "rating": 4.5,
+      "category": "Crossbody Bags & Sling Bags"
+    }
+  ],
+  "BoysShoes": [
+    {
+      "id": 76,
+      "title": "LED Light-Up Sneakers",
+      "price": 2500,
+      "description": "Fun blue and green sneakers for boys with bright LED lights in the soles that flash with every step.",
+      "thumbnail": "https://images.meesho.com/images/products/437974443/j1ziz_400.webp",
+      "rating": 4.8,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 77,
+      "title": "Classic Canvas High-Tops",
+      "price": 1800,
+      "description": "Timeless black canvas high-top sneakers that are versatile, comfortable, and always in style.",
+      "thumbnail": "https://images.meesho.com/images/products/497184288/wskpr_400.webp",
+      "rating": 4.5,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 78,
+      "title": "Running Sport Shoes",
+      "price": 2200,
+      "description": "Lightweight and breathable mesh running shoes in a striking red and black design, offering great support.",
+      "thumbnail": "https://images.meesho.com/images/products/498847868/j5jex_400.webp",
+      "rating": 4.6,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 79,
+      "title": "Loafers for Boys",
+      "price": 1900,
+      "description": "Smart tan loafers in faux suede, perfect for parties and formal occasions. Easy to slip on.",
+      "thumbnail": "https://images.meesho.com/images/products/491410915/w5syr_400.webp",
+      "rating": 4.4,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 80,
+      "title": "Waterproof Sandals",
+      "price": 1200,
+      "description": "Durable and waterproof navy blue rubber sandals, ideal for beach trips, pools, and monsoon season.",
+      "thumbnail": "https://images.meesho.com/images/products/493202941/3p7j8_400.webp",
+      "rating": 4.3,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 81,
+      "title": "Formal Dress Shoes",
+      "price": 2800,
+      "description": "Classic black faux leather dress shoes with laces, perfect for weddings, school functions, and formal events.",
+      "thumbnail": "https://images.meesho.com/images/products/491410915/w5syr_400.webp",
+      "rating": 4.7,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 82,
+      "title": "Hiking Boots",
+      "price": 3200,
+      "description": "Rugged brown hiking boots with excellent grip and ankle support, designed for outdoor adventures.",
+      "thumbnail": "https://images.meesho.com/images/products/437974443/j1ziz_400.webp",
+      "rating": 4.6,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 83,
+      "title": "Slip-On Sneakers",
+      "price": 1600,
+      "description": "Easy-to-wear grey canvas slip-on sneakers that are comfortable and convenient for everyday use.",
+      "thumbnail": "https://images.meesho.com/images/products/497184288/wskpr_400.webp",
+      "rating": 4.2,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 84,
+      "title": "Football Studs",
+      "price": 3000,
+      "description": "Bright neon yellow football studs with a synthetic upper, designed for excellent performance on the field.",
+      "thumbnail": "https://images.meesho.com/images/products/498847868/j5jex_400.webp",
+      "rating": 4.8,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 85,
+      "title": "Clogs with Cartoon Charm",
+      "price": 1400,
+      "description": "Comfortable blue clogs made from Croslite material, featuring fun cartoon charms that kids will love.",
+      "thumbnail": "https://images.meesho.com/images/products/493202941/3p7j8_400.webp",
+      "rating": 4.5,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 86,
+      "title": "School Uniform Shoes",
+      "price": 1500,
+      "description": "Durable black PU leather shoes with velcro straps, compliant with most school uniform policies.",
+      "thumbnail": "https://images.meesho.com/images/products/491410915/w5syr_400.webp",
+      "rating": 4.4,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 87,
+      "title": "Basketball Shoes",
+      "price": 2900,
+      "description": "High-top basketball shoes in a white and red colorway, offering great ankle support and cushioning.",
+      "thumbnail": "https://images.meesho.com/images/products/437974443/j1ziz_400.webp",
+      "rating": 4.7,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 88,
+      "title": "Velcro Strap Sandals",
+      "price": 1300,
+      "description": "Open-toed green sandals with adjustable velcro straps, perfect for summer and casual wear.",
+      "thumbnail": "https://images.meesho.com/images/products/493202941/3p7j8_400.webp",
+      "rating": 4.1,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 89,
+      "title": "Winter Snow Boots",
+      "price": 3500,
+      "description": "Warm, waterproof snow boots in a black and grey design, with a fleece lining to keep feet warm and dry.",
+      "thumbnail": "https://images.meesho.com/images/products/497184288/wskpr_400.webp",
+      "rating": 4.6,
+      "category": "Boys Shoes"
+    },
+    {
+      "id": 90,
+      "title": "Skate Shoes",
+      "price": 2000,
+      "description": "Classic checkerboard skate shoes with a canvas and suede upper and a durable, flat rubber sole for grip.",
+      "thumbnail": "https://images.meesho.com/images/products/498847868/j5jex_400.webp",
+      "rating": 4.5,
+      "category": "Boys Shoes"
+    }
+  ],
+  "GirlsShoes": [
+    {
+      "id": 91,
+      "title": "Glitter Ballerina Flats",
+      "price": 1500,
+      "description": "Sparkly silver ballerina flats covered in glitter, with a cute bow detail. Perfect for parties and special occasions.",
+      "thumbnail": "https://images.meesho.com/images/products/498881267/3tdk8_400.webp",
+      "rating": 4.7,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 92,
+      "title": "Mary Jane School Shoes",
+      "price": 1600,
+      "description": "Classic black Mary Jane style shoes in faux leather with a single strap, ideal for school uniforms.",
+      "thumbnail": "https://images.meesho.com/images/products/479549309/gwvnu_400.webp",
+      "rating": 4.5,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 93,
+      "title": "Pink Sport Sneakers",
+      "price": 2100,
+      "description": "Bright pink and white sports sneakers with a breathable mesh upper, perfect for active girls.",
+      "thumbnail": "https://images.meesho.com/images/products/493223055/z41u5_400.webp",
+      "rating": 4.6,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 94,
+      "title": "Heeled Party Sandals",
+      "price": 2000,
+      "description": "Elegant gold party sandals with a low, sturdy heel and ankle strap, perfect for little divas.",
+      "thumbnail": "https://images.meesho.com/images/products/487311756/l26u6_400.webp",
+      "rating": 4.4,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 95,
+      "title": "Canvas Slip-On Shoes",
+      "price": 1400,
+      "description": "Comfortable canvas slip-on shoes featuring a beautiful floral print, great for casual, everyday wear.",
+      "thumbnail": "https://images.meesho.com/images/products/498881267/3tdk8_400.webp",
+      "rating": 4.3,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 96,
+      "title": "Ankle Boots",
+      "price": 2800,
+      "description": "Stylish tan ankle boots in faux suede with a side zipper and a small decorative buckle.",
+      "thumbnail": "https://images.meesho.com/images/products/479549309/gwvnu_400.webp",
+      "rating": 4.6,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 97,
+      "title": "Jelly Sandals",
+      "price": 900,
+      "description": "Fun and flexible jelly sandals in a transparent pink with glitter infusions, perfect for summer.",
+      "thumbnail": "https://images.meesho.com/images/products/487311756/l26u6_400.webp",
+      "rating": 4.1,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 98,
+      "title": "Light-Up Unicorn Sneakers",
+      "price": 2600,
+      "description": "Magical pastel rainbow sneakers with a unicorn horn and ears, featuring soles that light up with every step.",
+      "thumbnail": "https://images.meesho.com/images/products/493223055/z41u5_400.webp",
+      "rating": 4.9,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 99,
+      "title": "Wedge Sandals",
+      "price": 1900,
+      "description": "Chic white wedge sandals with a cork-style heel and faux leather straps, suitable for older girls.",
+      "thumbnail": "https://images.meesho.com/images/products/498881267/3tdk8_400.webp",
+      "rating": 4.4,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 100,
+      "title": "Furry Winter Boots",
+      "price": 3000,
+      "description": "Cozy brown winter boots lined with soft faux fur to keep feet warm, with a durable non-slip sole.",
+      "thumbnail": "https://images.meesho.com/images/products/479549309/gwvnu_400.webp",
+      "rating": 4.7,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 101,
+      "title": "Clogs with Flower Charms",
+      "price": 1300,
+      "description": "Cute purple clogs made from comfortable Croslite material, decorated with lovely flower charms.",
+      "thumbnail": "https://images.meesho.com/images/products/493223055/z41u5_400.webp",
+      "rating": 4.5,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 102,
+      "title": "Lace-Up High-Top Sneakers",
+      "price": 2300,
+      "description": "Stylish white high-top sneakers with laces, offering a cool, street-style look for girls.",
+      "thumbnail": "https://images.meesho.com/images/products/498881267/3tdk8_400.webp",
+      "rating": 4.6,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 103,
+      "title": "Ethnic Mojari/Jutti",
+      "price": 1200,
+      "description": "Traditional juttis with vibrant, multicolor embroidery, perfect for wearing with ethnic outfits during festivals.",
+      "thumbnail": "https://images.meesho.com/images/products/487311756/l26u6_400.webp",
+      "rating": 4.3,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 104,
+      "title": "Waterproof Rain Boots",
+      "price": 1800,
+      "description": "Bright yellow waterproof rubber rain boots to make jumping in puddles even more fun.",
+      "thumbnail": "https://images.meesho.com/images/products/479549309/gwvnu_400.webp",
+      "rating": 4.5,
+      "category": "Girls Shoes"
+    },
+    {
+      "id": 105,
+      "title": "T-Strap Sandals",
+      "price": 1700,
+      "description": "Elegant T-strap sandals in a fashionable rose gold synthetic material, with a flat sole for comfort.",
+      "thumbnail": "https://images.meesho.com/images/products/493223055/z41u5_400.webp",
+      "rating": 4.4,
+      "category": "Girls Shoes"
+    }
+  ]
+}

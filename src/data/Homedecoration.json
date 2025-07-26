@@ -1,0 +1,28 @@
+ 
+ {"homedeco":
+ [
+  { "id": 1, "title": "Modern Wall Painting", "price": 1299, "rating": 4.4, "thumbnail": "https://images.meesho.com/images/products/522359833/4ar91_400.webp" },
+  { "id": 2, "title": "Wooden Showpiece", "price": 999, "rating": 4.2, "thumbnail": "https://images.meesho.com/images/products/435528190/xnznz_400.webp" },
+  { "id": 3, "title": "Handcrafted Vase", "price": 799, "rating": 4.0, "thumbnail": "https://images.meesho.com/images/products/377818182/httqz_400.webp" },
+  { "id": 4, "title": "Wall Hanging Decor", "price": 699, "rating": 4.1, "thumbnail": "https://images.meesho.com/images/products/25515256/a6300_400.webp" },
+  { "id": 5, "title": "Antique Table Lamp", "price": 1499, "rating": 4.3, "thumbnail": "https://images.meesho.com/images/products/470699509/5flnq_400.webp" },
+  { "id": 6, "title": "Floral Curtains Set", "price": 1299, "rating": 4.5, "thumbnail": "https://images.meesho.com/images/products/342592845/6a86k_400.webp" },
+  { "id": 7, "title": "Classic Photo Frame", "price": 599, "rating": 4.2, "thumbnail": "https://images.meesho.com/images/products/564232964/uqxxp_400.webp" },
+  { "id": 8, "title": "Luxury Wall Clock", "price": 1199, "rating": 4.4, "thumbnail": "https://images.meesho.com/images/products/495971966/zo0v7_400.webp" },
+  { "id": 9, "title": "Tabletop Flower Pot", "price": 499, "rating": 4.3, "thumbnail": "https://images.meesho.com/images/products/201349362/bf67v_400.webp" },
+  { "id": 10, "title": "Decorative Storage Box", "price": 899, "rating": 4.1, "thumbnail": "https://images.meesho.com/images/products/512087658/7lt7v_400.webp" },
+  { "id": 11, "title": "Elegant Wall Frame", "price": 1099, "rating": 4.2, "thumbnail": "https://images.meesho.com/images/products/523030831/zmbxc_400.webp" },
+  { "id": 12, "title": "Artificial Plant Pot", "price": 799, "rating": 4.3, "thumbnail": "https://images.meesho.com/images/products/383491249/50pax_400.webp" },
+  { "id": 13, "title": "LED Decorative Lamp", "price": 1199, "rating": 4.4, "thumbnail": "https://images.meesho.com/images/products/499398466/zxhdn_400.webp" },
+  { "id": 14, "title": "Classic Table Clock", "price": 899, "rating": 4.1, "thumbnail": "https://images.meesho.com/images/products/117789393/idpzw_400.webp" },
+  { "id": 15, "title": "Metallic Wall Decor", "price": 1499, "rating": 4.5, "thumbnail": "https://images.meesho.com/images/products/520092813/vxg36_400.webp" },
+  { "id": 16, "title": "Luxury Candle Holder", "price": 599, "rating": 4.2, "thumbnail": "https://images.meesho.com/images/products/383372046/n1vof_400.webp" },
+  { "id": 17, "title": "Photo Frame Set", "price": 999, "rating": 4.3, "thumbnail": "https://images.meesho.com/images/products/564426649/fqhem_400.webp" },
+  { "id": 18, "title": "Elegant Showpiece Set", "price": 1199, "rating": 4.4, "thumbnail": "https://images.meesho.com/images/products/533300304/jqcgv_400.webp" },
+  { "id": 19, "title": "Wooden Wall Shelf", "price": 1099, "rating": 4.2, "thumbnail": "https://images.meesho.com/images/products/478637687/bwqsd_400.webp" },
+  { "id": 20, "title": "Hanging Light Lamp", "price": 1399, "rating": 4.5, "thumbnail": "https://images.meesho.com/images/products/475704903/km0d6_400.webp" },
+  { "id": 21, "title": "Wall Art Piece", "price": 1299, "rating": 4.3, "thumbnail": "https://images.meesho.com/images/products/495288512/lewwu_400.webp" },
+  { "id": 22, "title": "Corner Shelf Unit", "price": 999, "rating": 4.1, "thumbnail": "https://images.meesho.com/images/products/267408423/bqc2l_400.webp" },
+  { "id": 23, "title": "Decorative Hanging Bell", "price": 799, "rating": 4.0, "thumbnail": "https://images.meesho.com/images/products/383649938/b8e0r_400.webp" }
+]
+}

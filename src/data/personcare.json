@@ -1,0 +1,274 @@
+ 
+ { "persnl":
+ [
+  {
+    "id": 1,
+    "title": "Aloe Vera Moisturizing Gel",
+    "price": 249,
+    "description": "Hydrating aloe vera gel for face, skin & hair. Suitable for all skin types.",
+    "thumbnail": "https://images.meesho.com/images/products/306648937/m0flp_400.webp",
+    "rating": 4.6,
+    "category": "Personal Care"
+  },
+  {
+    "id": 2,
+    "title": "Charcoal Face Wash",
+    "price": 199,
+    "description": "Deep cleansing face wash with activated charcoal for oily skin.",
+    "thumbnail": "https://images.meesho.com/images/products/364268396/haxdx_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 3,
+    "title": "Vitamin C Serum",
+    "price": 349,
+    "description": "Brightening serum with Vitamin C for glowing and youthful skin.",
+    "thumbnail": "https://images.meesho.com/images/products/328558222/fuqdv_400.webp",
+    "rating": 4.5,
+    "category": "Personal Care"
+  },
+  {
+    "id": 4,
+    "title": "Onion Hair Oil",
+    "price": 299,
+    "description": "Hair fall control oil with onion extract and herbal ingredients.",
+    "thumbnail": "https://images.meesho.com/images/products/381005512/fdzyt_400.webp",
+    "rating": 4.4,
+    "category": "Personal Care"
+  },
+  {
+    "id": 5,
+    "title": "Beard Growth Oil",
+    "price": 219,
+    "description": "Stimulates beard growth with natural oils and herbs.",
+    "thumbnail": "https://images.meesho.com/images/products/295081509/mtxdo_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 6,
+    "title": "Amla Reetha Shikakai Shampoo",
+    "price": 179,
+    "description": "Ayurvedic shampoo for smooth and strong hair.",
+    "thumbnail": "https://images.meesho.com/images/products/350915697/neksv_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 7,
+    "title": "Lip Balm Combo",
+    "price": 129,
+    "description": "Combo of fruit flavored lip balms for moisturized lips.",
+    "thumbnail": "https://images.meesho.com/images/products/125992518/ugn0j_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 8,
+    "title": "Ubtan Face Pack",
+    "price": 199,
+    "description": "Traditional ubtan face pack for glowing skin.",
+    "thumbnail": "https://images.meesho.com/images/products/415658346/0qzte_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 9,
+    "title": "Foot Crack Cream",
+    "price": 99,
+    "description": "Heals cracked heels with intensive care formula.",
+    "thumbnail": "https://images.meesho.com/images/products/483788778/y0jdq_400.webp",
+    "rating": 4.0,
+    "category": "Personal Care"
+  },
+  {
+    "id": 10,
+    "title": "Hair Serum With Argan Oil",
+    "price": 325,
+    "description":"https://images.meesho.com/images/products/176003913/k5poy_400.webp",
+    "rating": 4.4,
+    "category": "Personal Care"
+  },
+  {
+    "id": 11,
+    "title": "Neem Face Wash",
+    "price": 145,
+    "description": "Anti-acne neem face wash with antibacterial properties.",
+    "thumbnail": "https://images.meesho.com/images/products/341587912/qvtsp_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 12,
+    "title": "Sunscreen Lotion SPF 50",
+    "price": 279,
+    "description": "Broad spectrum UVA/UVB protection with matte finish.",
+    "thumbnail": "https://images.meesho.com/images/products/419801654/ihplw_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 13,
+    "title": "Under Eye Cream",
+    "price": 199,
+    "description": "Reduces dark circles and puffiness under eyes.",
+    "thumbnail": "https://images.meesho.com/images/products/214324283/czhng_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 14,
+    "title": "Shaving Foam for Men",
+    "price": 175,
+    "description": "Rich lather for smooth and comfortable shaving.",
+    "thumbnail": "https://images.meesho.com/images/products/428787565/htcbe_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 15,
+    "title": "Hair Removal Cream for Women",
+    "price": 139,
+    "description": "Gentle hair remover for sensitive skin.",
+    "thumbnail": "https://images.meesho.com/images/products/428673931/nnnzr_400.webp",
+    "rating": 4.0,
+    "category": "Personal Care"
+  },
+  {
+    "id": 16,
+    "title": "Rose Water Toner",
+    "price": 109,
+    "description": "Natural toner with pure rose water for refreshed skin.",
+    "thumbnail": "https://images.meesho.com/images/products/387709489/6yhm1_400.webp",
+    "rating": 4.4,
+    "category": "Personal Care"
+  },
+  {
+    "id": 17,
+    "title": "Hair Straightening Cream",
+    "price": 379,
+    "description": "Salon-style hair straightening at home.",
+    "thumbnail": "https://images.meesho.com/images/products/380011061/dagmo_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 18,
+    "title": "Charcoal Peel Off Mask",
+    "price": 165,
+    "description": "Removes blackheads and deep cleanses pores.",
+    "thumbnail": "https://images.meesho.com/images/products/242275754/cd4er_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 19,
+    "title": "Men's Deodorant Body Spray",
+    "price": 199,
+    "description": "Long-lasting fragrance with sweat protection.",
+    "thumbnail": "https://images.meesho.com/images/products/498232777/vbnlw_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 20,
+    "title": "Face Scrub with Walnut Beads",
+    "price": 189,
+    "description": "Exfoliates dead skin and gives a fresh glow.",
+    "thumbnail": "https://images.meesho.com/images/products/328554683/rspg6_400.webp",
+    "rating": 4.0,
+    "category": "Personal Care"
+  },
+  {
+    "id": 21,
+    "title": "Aroma Bath Salt",
+    "price": 225,
+    "description": "Relaxing bath salt with essential oils.",
+    "thumbnail": "https://images.meesho.com/images/products/284662229/ufppd_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 22,
+    "title": "Hair Conditioner with Keratin",
+    "price": 249,
+    "description": "Strengthens hair and reduces breakage.",
+    "thumbnail": "https://images.meesho.com/images/products/251593313/o0hmr_400.webp",
+    "rating": 4.5,
+    "category": "Personal Care"
+  },
+  {
+    "id": 23,
+    "title": "Anti-Dandruff Shampoo",
+    "price": 199,
+    "description": "Fights dandruff and keeps scalp healthy.",
+    "thumbnail": "https://images.meesho.com/images/products/275839937/fxweq_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 24,
+    "title": "Nail Polish Remover Wipes",
+    "price": 99,
+    "description": "Acetone-free nail polish remover wipes.",
+    "thumbnail": "https://images.meesho.com/images/products/243947400/fhlch_400.webp",
+    "rating": 4.2,
+    "category": "Personal Care"
+  },
+  {
+    "id": 25,
+    "title": "Men's Face Cream",
+    "price": 179,
+    "description": "Moisturizer specially formulated for men's skin.",
+    "thumbnail": "https://images.meesho.com/images/products/272293602/u3gaw_400.webp",
+    "rating": 4.0,
+    "category": "Personal Care"
+  },
+  {
+    "id": 26,
+    "title": "Black Kajal Stick",
+    "price": 75,
+    "description": "Long-lasting smudge-proof kajal.",
+    "thumbnail": "https://images.meesho.com/images/products/248067032/xwzoa_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 27,
+    "title": "Fairness Night Cream",
+    "price": 245,
+    "description": "Rejuvenates skin overnight with fairness formula.",
+    "thumbnail": "https://images.meesho.com/images/products/276429452/39xbw_400.webp",
+    "rating": 4.3,
+    "category": "Personal Care"
+  },
+  {
+    "id": 28,
+    "title": "Herbal Toothpaste",
+    "price": 129,
+    "description": "Ayurvedic toothpaste for strong teeth and gums.",
+    "thumbnail": "https://images.meesho.com/images/products/274110299/zbl1g_400.webp",
+    "rating": 4.4,
+    "category": "Personal Care"
+  },
+  {
+    "id": 29,
+    "title": "Hand Wash Gel",
+    "price": 89,
+    "description": "Antibacterial hand wash with mild fragrance.",
+    "thumbnail": "https://images.meesho.com/images/products/247489916/w1tbc_400.webp",
+    "rating": 4.1,
+    "category": "Personal Care"
+  },
+  {
+    "id": 30,
+    "title": "Makeup Remover",
+    "price": 179,
+    "description": "Gently removes makeup and nourishes skin.",
+    "thumbnail": "https://images.meesho.com/images/products/276929678/nouxo_400.webp",
+    "rating": 4.5,
+    "category": "Personal Care"
+  }
+]
+}

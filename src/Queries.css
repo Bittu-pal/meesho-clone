@@ -1,0 +1,115 @@
+
+@media screen and (max-width:768px) {
+
+  
+
+   .serachinput{
+    width: 250px !important;
+    padding: 10px 0px;
+
+  }
+
+
+   .serachinput .input{
+    width: 200px !important;
+    position: absolute;
+    padding: 0px;
+    
+   }
+
+   .Header{
+    display: flex;
+    flex-wrap: wrap;
+   }
+
+   .righteader{
+    /* position: absolute;
+    top: 20px !important;
+    right: 200px !important; */
+    /* background-color: red; */
+    margin-top: 15px;
+    gap: 15px !important;
+    display: flex;
+    text-align: center;
+    justify-content: right !important;
+    margin-left: 50px;
+   }
+
+  
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    
+  .forbox img{
+    width: 100%;
+    height: 100%;
+    
+  }
+   
+
+  .section3 .shopnowbtn{
+    
+    padding: 8px 25px 9px;
+    font-size: 12px;
+
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+  } 
+ 
+
+}
+
+/* this is for four divs */
+@media  screen and (max-width:1024px) {
+
+  .fordivs img{
+    width: 60px
+  }
+  .fordivs{
+    width: 60%;
+    gap: 2%;
+  }
+ .fordivs .imgdiv .div{
+    border: 1px solid rgb(243, 243, 166);
+    padding: 6px;
+    font-size: 10px;
+    font-weight: 400;
+    margin-top: 10px;
+    /* margin-bottom: 40px; */
+    border-radius: 5px;
+     white-space: nowrap;  
+
+
+  }
+   .section5 a .shopnowbtn2 {
+     padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 400px;
+    font-size: 0.65rem;
+    transition: 0.2s;
+    position: absolute;
+    bottom: 18%;
+    left: 4%;
+  }
+
+  
+}
+@media screen and (max-width:450px) {
+ 
+  .section5 .imgdiv{
+    margin-right: 0px;
+  }
+  .section5 .imgdiv img{
+    width: 40px;
+  }
+  .section5 a  .div{
+    padding: 0px !important;
+    font-size: 8px !important;
+    font-weight: 200;
+    margin-top: 5px !important;
+  }
+  
+}

@@ -1,0 +1,184 @@
+{
+  "AllMenAccessories": [
+    {
+      "id": 1,
+      "title": "Classic Bifold Leather Wallet",
+      "price": 499,
+      "description": "A timeless bifold wallet crafted from genuine leather, featuring multiple card slots and a currency compartment.",
+      "thumbnail": "https://images.meesho.com/images/products/104935255/1kgni_400.webp",
+      "rating": 4.6,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 2,
+      "title": "Reversible Formal Leather Belt",
+      "price": 399,
+      "description": "A versatile reversible belt, black on one side and brown on the other, with a stylish rotating buckle. Perfect for formal wear.",
+      "thumbnail": "https://images.meesho.com/images/products/286955039/h6ypl_400.webp",
+      "rating": 4.4,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 3,
+      "title": "UV Protection Aviator Sunglasses",
+      "price": 699,
+      "description": "Classic aviator sunglasses with a metal frame and polarized lenses offering 100% UV protection.",
+      "thumbnail": "https://images.meesho.com/images/products/221958801/99vle_400.webp",
+      "rating": 4.5,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 4,
+      "title": "Analog Chronograph Wrist Watch",
+      "price": 1299,
+      "description": "A sophisticated chronograph watch with a stainless steel strap and a bold dial. Water-resistant and perfect for all occasions.",
+      "thumbnail": "https://images.meesho.com/images/products/397197059/z6rfw_400.webp",
+      "rating": 4.7,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 5,
+      "title": "Lava Stone & Tiger Eye Beaded Bracelet",
+      "price": 249,
+      "description": "A stylish bracelet featuring natural lava stones and tiger eye beads, known for their grounding properties.",
+      "thumbnail": "https://images.meesho.com/images/products/295321589/sdt9t_400.webp",
+      "rating": 4.3,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 6,
+      "title": "Stainless Steel Minimalist Band Ring",
+      "price": 299,
+      "description": "A sleek and durable stainless steel band ring with a polished finish. Hypoallergenic and comfortable for daily wear.",
+      "thumbnail": "https://images.meesho.com/images/products/317371536/z8w9b_400.webp",
+      "rating": 4.6,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 7,
+      "title": "Casual Laptop Backpack with USB Port",
+      "price": 899,
+      "description": "A modern and functional backpack with a dedicated laptop sleeve and a built-in USB charging port. Water-resistant fabric.",
+      "thumbnail": "https://images.meesho.com/images/products/301138407/qrlbb_400.webp",
+      "rating": 4.5,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 8,
+      "title": "Silk Tie, Pocket Square & Cufflinks Set",
+      "price": 599,
+      "description": "A complete formal accessory set including a premium silk tie, a matching pocket square, and elegant cufflinks.",
+      "thumbnail": "https://images.meesho.com/images/products/289065463/z3k3l_400.webp",
+      "rating": 4.7,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 9,
+      "title": "Cotton Baseball Cap",
+      "price": 249,
+      "description": "A comfortable and stylish baseball cap made from breathable cotton, with an adjustable strap for a perfect fit.",
+      "thumbnail": "https://images.meesho.com/images/products/247543888/z8jmg_400.webp",
+      "rating": 4.2,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 10,
+      "title": "Silver-Plated Stainless Steel Chain",
+      "price": 349,
+      "description": "A trendy silver-plated curb chain for men, made from tarnish-resistant stainless steel.",
+      "thumbnail": "https://images.meesho.com/images/products/294246197/c2tpb_400.webp",
+      "rating": 4.4,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 11,
+      "title": "Classic Silver-Tone Cufflinks",
+      "price": 399,
+      "description": "A pair of elegant, square-shaped silver-tone cufflinks. A must-have accessory for any formal shirt.",
+      "thumbnail": "https://images.meesho.com/images/products/282200230/9b44h_400.webp",
+      "rating": 4.5,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 12,
+      "title": "Woody & Spicy Eau de Parfum",
+      "price": 549,
+      "description": "A long-lasting men's perfume with masculine notes of wood and spice. Perfect for evening wear.",
+      "thumbnail": "https://images.meesho.com/images/products/182390141/zzfag_400.webp",
+      "rating": 4.6,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 13,
+      "title": "Woolen Knit Beanie Cap",
+      "price": 299,
+      "description": "A soft and warm woolen beanie cap to keep you stylish and comfortable during winter.",
+      "thumbnail": "https://images.meesho.com/images/products/132484435/f6jmi_400.webp",
+      "rating": 4.3,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 14,
+      "title": "Feather Lapel Pin Brooch",
+      "price": 199,
+      "description": "A stylish feather-designed lapel pin and brooch for suits and blazers to add a touch of class.",
+      "thumbnail": "https://images.meesho.com/images/products/398000572/p8gqj_400.webp",
+      "rating": 4.5,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 15,
+      "title": "Minimalist Silver Tie Clip",
+      "price": 179,
+      "description": "A sleek and simple silver-colored tie clip to keep your tie perfectly in place with a modern look.",
+      "thumbnail": "https://images.meesho.com/images/products/350410058/39gda_400.webp",
+      "rating": 4.4,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 16,
+      "title": "Leather and Metal Keychain",
+      "price": 149,
+      "description": "A durable and stylish keychain combining high-quality leather with a polished metal ring.",
+      "thumbnail": "https://images.meesho.com/images/products/182749845/eubk4_400.webp",
+      "rating": 4.3,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 17,
+      "title": "Pack of 5 Ankle-Length Socks",
+      "price": 349,
+      "description": "A combo pack of five pairs of comfortable, breathable cotton socks in assorted colors.",
+      "thumbnail": "https://images.meesho.com/images/products/106689626/vfrbe_400.webp",
+      "rating": 4.5,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 18,
+      "title": "Checkered Woolen Muffler",
+      "price": 449,
+      "description": "A classic checkered muffler made from soft wool to keep you warm and fashionable in winter.",
+      "thumbnail": "https://images.meesho.com/images/products/133092284/d4wjw_400.webp",
+      "rating": 4.4,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 19,
+      "title": "Men's Beard Grooming Kit",
+      "price": 799,
+      "description": "A complete beard care kit including beard oil, wax, shampoo, and a wooden comb for a well-groomed look.",
+      "thumbnail": "https://images.meesho.com/images/products/84180433/j0w0b_400.webp",
+      "rating": 4.7,
+      "category": "Men Accessories"
+    },
+    {
+      "id": 20,
+      "title": "Touchscreen-Friendly Winter Gloves",
+      "price": 399,
+      "description": "Warm winter gloves with special fabric on the fingertips, allowing you to use your smartphone without taking them off.",
+      "thumbnail": "https://images.meesho.com/images/products/140087790/c393o_400.webp",
+      "rating": 4.3,
+      "category": "Men Accessories"
+    }
+  ]
+}

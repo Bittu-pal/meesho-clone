@@ -1,0 +1,32 @@
+{"lehengas":
+[
+  { "id": 1, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/375672670/triyv_400.webp", "price": 2499, "rating": 4.2, "discountPercentage": 10 },
+  { "id": 2, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/161035341/xe8vb_400.webp", "price": 1999, "rating": 4.0, "discountPercentage": 12 },
+  { "id": 3, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/538707280/5vjbk_400.webp", "price": 2699, "rating": 4.5, "discountPercentage": 15 },
+  { "id": 4, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/499416258/jof8f_400.webp", "price": 2199, "rating": 4.3, "discountPercentage": 9 },
+  { "id": 5, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/540909926/1yomv_400.webp", "price": 1899, "rating": 4.1, "discountPercentage": 11 },
+  { "id": 6, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/427097442/kbmer_400.webp", "price": 2399, "rating": 4.4, "discountPercentage": 10 },
+  { "id": 7, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/540909926/1yomv_400.webp", "price": 1899, "rating": 4.1, "discountPercentage": 11 },
+  { "id": 8, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/427097442/kbmer_400.webp", "price": 2399, "rating": 4.4, "discountPercentage": 10 },
+  { "id": 9, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/533458424/e4fov_400.webp", "price": 2599, "rating": 4.3, "discountPercentage": 14 },
+  { "id": 10, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/540687994/4e8gl_400.webp", "price": 2299, "rating": 4.0, "discountPercentage": 8 },
+  { "id": 11, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/548780799/wa2cn_400.webp", "price": 1999, "rating": 4.1, "discountPercentage": 12 },
+  { "id": 12, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/465237073/dba56_400.webp", "price": 1799, "rating": 3.9, "discountPercentage": 10 },
+  { "id": 13, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/375672467/dhiay_400.webp", "price": 2099, "rating": 4.0, "discountPercentage": 7 },
+  { "id": 14, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/404870171/kqn9w_400.webp", "price": 2599, "rating": 4.2, "discountPercentage": 15 },
+  { "id": 15, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/534959890/mtoh6_400.webp", "price": 2299, "rating": 4.3, "discountPercentage": 9 },
+  { "id": 16, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/545505536/tcxfn_400.webp", "price": 2799, "rating": 4.5, "discountPercentage": 11 },
+  { "id": 17, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/497296845/1qmxx_400.webp", "price": 1999, "rating": 4.0, "discountPercentage": 10 },
+  { "id": 18, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/549965076/bk0mq_400.webp", "price": 1899, "rating": 4.1, "discountPercentage": 12 },
+  { "id": 19, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/550726876/xwm0w_400.webp", "price": 2399, "rating": 4.4, "discountPercentage": 13 },
+  { "id": 20, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/371002789/ugpl7_400.webp", "price": 2599, "rating": 4.2, "discountPercentage": 15 },
+  { "id": 21, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/513454380/g58l6_400.webp", "price": 2299, "rating": 4.0, "discountPercentage": 8 },
+  { "id": 22, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/520436445/iigjo_400.webp", "price": 1999, "rating": 4.1, "discountPercentage": 12 },
+  { "id": 23, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/475144909/epssi_400.webp", "price": 1899, "rating": 4.0, "discountPercentage": 9 },
+  { "id": 24, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/534993069/1dwjn_400.webp", "price": 2599, "rating": 4.2, "discountPercentage": 10 },
+  { "id": 25, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/534993069/1dwjn_400.webp", "price": 2599, "rating": 4.2, "discountPercentage": 10 },
+  { "id": 26, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/547343726/j40e2_400.webp", "price": 2399, "rating": 4.3, "discountPercentage": 11 },
+  { "id": 27, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/550427600/c8jrj_400.webp", "price": 2199, "rating": 4.0, "discountPercentage": 12 },
+  { "id": 28, "title": "Beautiful Lehenga", "thumbnail": "https://images.meesho.com/images/products/465237073/dba56_400.webp", "price": 1799, "rating": 3.9, "discountPercentage": 10 }
+]
+}

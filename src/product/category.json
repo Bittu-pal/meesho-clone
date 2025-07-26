@@ -1,0 +1,98 @@
+{
+  "womenethnic1": {
+    "Sarees": ["All Sarees", "Silk Sarees", "Banarasi Silk Sarees"],
+    "Kurtis": ["All Kurtis", "Anarkali Kurtis", "Rayon Kurtis"],
+    "Lehengas": ["Lehenga Cholis", "Net Lehenga", "Bridal Lehenga"]
+  },
+  "womenethnic2": {
+    "Topwear": ["All Topwear", "tops", "T-shirts"],
+    "Bottomwear": ["All Bottomwear", "Jeans & Jeggings", "palazzos"],
+    "Innerwear": ["Bra", "Women Innerwear", "Briefs"]
+  },
+  "womenethnic3": {
+    "MenAccessories": ["All Men Accessories", "Watches","Belts & Wallets"],
+    "MenFootwear": ["Men Footwear ", "causel shoes","sport shoes"]
+  },
+  "womenethnic4": {
+    "BoysGirls2Years": ["Dresses", "Boys Sets", "Girls Sets"],
+    "Infant02Years": ["Rompers", "Baby Sets", "Ethnicwear"],
+    "ToysAccessories": ["Soft Toys", "Footwear", "Stationery"],
+    "BabyCare": ["Baby Bedding & Accessories", "All Baby Care", "Newborn Care"]
+},
+"womenethnic5": {
+    "KitchenAppliances": ["Kitchen Tools", "Storage Organizers"],
+    "HomeFurnishing": ["Bedsheets", "Curtains Sheers"],
+    "HomeDecor": ["Clocks",  "Paintings Photoframes"],
+    "KitchenDining": ["Kitchen Storage", "Cookware Bakeware"],
+    "HomeImprovement": ["Cleaning Supplies", "Gardening"]
+}
+,"womenethnic6": {
+    "Makeup": ["Face", "Eyes", "Lips", "Nails", "Makeup Kits"],
+    "Skincare": ["View All", "Face Masks Peels", "Facecare"],
+    "BabyMom": ["Baby Personal Care", "Mom Care"],
+    "MensCare": ["Beard Care", "Fragrances for Men"],
+    "Healthcare": ["Ear Buds Cleaners",  "Sanitary Pads"]
+},
+"womenethnic7": {
+    "Jewellery": ["All Jewellery", "Jewellery Set", "Earrings Studs", "Mangalsutras"],
+    "MenAccessories": ["View All", "Watches", "Belts Wallets", "Caps Hats"],
+    "WomenAccessory": ["Watches", "Hair Accessories", "Sunglasses"]
+},
+
+"womenethnic8": {
+    "Women Bags": ["All Women Bags", "Handbags", "Clutches"],
+    "Men Bags": ["Men Wallets", "Crossbody Bags & Sling Bags"],
+    "Kids Footwear": ["Boys Shoes", "Girls Shoes"]
+},
+
+"womenethnic9": {
+    "Audio": ["Bluetooth Headphone & Earphones", "Wired Headphones & Earphones", "Speakers"],
+    "Mobile & Accessories": ["Smartwatches", "Mobile Holders", "Mobile cases and covers"],
+    "Smart Wearables": ["VR Box", "Tripod", "Microphone"]
+},
+"womenethnic10": {
+    "Fitness": ["Yoga", "Hand Grip Strengthener", "Tummy trimmers", "Skipping Ropes"],
+    "Sports": ["Badminton", "Skating", "Football", "Cricket"]
+},
+
+"womenethnic11": {
+    "Car Accessories": ["Car Covers", "Interior Accessories", "Car Mobile Holders", "Car Repair Assistance"],
+    "Motorbike Accessories": ["Helmets", "Bike Accessories", "Bike LED Lights", "Safety Gear & Clothing"]
+},
+
+"womenethnic12": {
+    "Office Supplies and Stationery": [ "Diaries & Notebooks", "Adhesives & Tapes", "Files & Desks Organizers","Pens & Pencils", "Paintings & Photoframes"]
+},
+    "womenethnic13": {
+      "Pet Supplies": ["Pet Toys", "Pet Grooming", "Pet Food", "Pet Clothing", "Pet Health"]
+},
+
+"womenethnic14":{
+  "Food & Drinks": ["Dry Fruits", "Tea", "Masalas", "Coffee", "Ready to Cook"]
+},
+
+"womenethnic15": {
+  "Musical Instruments": ["String Instruments", "Musical Accessories",  "Wind Instruments", "All Musical Instruments"]
+},
+
+"womenethnic16": {
+  "Fiction & Non Fiction": [
+    "Childrens Books",
+    "Self Help Books",
+    "Novels",
+    "Economics & Commerce",
+    "Religious Books",
+    "View All Books"
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+}

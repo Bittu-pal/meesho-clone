@@ -1,0 +1,214 @@
+{ "ankarikurties":
+[
+  {
+    "id": 1,
+    "title": "Elegant Anarkali Kurti",
+    "price": 799,
+    "rating": 4.3,
+    "thumbnail": "https://images.meesho.com/images/products/70284732/rqrbi_400.webp"
+  },
+  {
+    "id": 2,
+    "title": "Printed Anarkali Kurti",
+    "price": 699,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/72307495/jea4x_400.webp"
+  },
+  {
+    "id": 3,
+    "title": "Stylish Anarkali Kurti",
+    "price": 899,
+    "rating": 4.5,
+    "thumbnail": "https://images.meesho.com/images/products/88529968/jw0xv_400.webp"
+  },
+  {
+    "id": 4,
+    "title": "Traditional Anarkali Kurti",
+    "price": 999,
+    "rating": 4.4,
+    "thumbnail": "https://images.meesho.com/images/products/72120163/wtuun_400.webp"
+  },
+  {
+    "id": 5,
+    "title": "Party Wear Anarkali Kurti",
+    "price": 1299,
+    "rating": 4.1,
+    "thumbnail": "https://images.meesho.com/images/products/88601212/uqbjb_400.webp"
+  },
+  {
+    "id": 6,
+    "title": "Floral Anarkali Kurti",
+    "price": 749,
+    "rating": 4.2,
+    "thumbnail": "https://images.meesho.com/images/products/75898934/wbryr_400.webp"
+  },
+  {
+    "id": 7,
+    "title": "Designer Anarkali Kurti",
+    "price": 1050,
+    "rating": 4.6,
+    "thumbnail": "https://images.meesho.com/images/products/64835403/c4b8v_400.webp"
+  },
+  {
+    "id": 8,
+    "title": "Festive Anarkali Kurti",
+    "price": 850,
+    "rating": 4.3,
+    "thumbnail": "https://images.meesho.com/images/products/68521231/gq1zi_400.webp"
+  },
+  {
+    "id": 9,
+    "title": "Cotton Anarkali Kurti",
+    "price": 650,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/67101306/cvhyo_400.webp"
+  },
+  {
+    "id": 10,
+    "title": "Georgette Anarkali Kurti",
+    "price": 1150,
+    "rating": 4.5,
+    "thumbnail": "https://images.meesho.com/images/products/80623187/b5djq_400.webp"
+  },
+  {
+    "id": 11,
+    "title": "Latest Anarkali Kurti",
+    "price": 999,
+    "rating": 4.2,
+    "thumbnail": "https://images.meesho.com/images/products/76355764/7bpyv_400.webp"
+  },
+  {
+    "id": 12,
+    "title": "Charming Anarkali Kurti",
+    "price": 890,
+    "rating": 4.4,
+    "thumbnail": "https://images.meesho.com/images/products/75987334/9bihv_400.webp"
+  },
+  {
+    "id": 13,
+    "title": "New Look Anarkali Kurti",
+    "price": 750,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/71993802/c7zkb_400.webp"
+  },
+  {
+    "id": 14,
+    "title": "Casual Anarkali Kurti",
+    "price": 680,
+    "rating": 3.9,
+    "thumbnail": "https://images.meesho.com/images/products/72621681/vltni_400.webp"
+  },
+  {
+    "id": 15,
+    "title": "Embroidery Anarkali Kurti",
+    "price": 1349,
+    "rating": 4.7,
+    "thumbnail": "https://images.meesho.com/images/products/80967439/afhru_400.webp"
+  },
+  {
+    "id": 16,
+    "title": "Office Wear Anarkali Kurti",
+    "price": 799,
+    "rating": 4.1,
+    "thumbnail": "https://images.meesho.com/images/products/77263864/2ohk2_400.webp"
+  },
+  {
+    "id": 17,
+    "title": "Simple Anarkali Kurti",
+    "price": 699,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/81230943/dqhis_400.webp"
+  },
+  {
+    "id": 18,
+    "title": "Fancy Anarkali Kurti",
+    "price": 1199,
+    "rating": 4.3,
+    "thumbnail": "https://images.meesho.com/images/products/75637042/yxq5h_400.webp"
+  },
+  {
+    "id": 19,
+    "title": "Colorful Anarkali Kurti",
+    "price": 849,
+    "rating": 4.2,
+    "thumbnail": "https://images.meesho.com/images/products/74091821/k8lnw_400.webp"
+  },
+  {
+    "id": 20,
+    "title": "Heavy Anarkali Kurti",
+    "price": 1499,
+    "rating": 4.5,
+    "thumbnail": "https://images.meesho.com/images/products/76355894/c9h7o_400.webp"
+  },
+  {
+    "id": 21,
+    "title": "Mirror Work Anarkali Kurti",
+    "price": 1250,
+    "rating": 4.6,
+    "thumbnail": "https://images.meesho.com/images/products/75911533/saziz_400.webp"
+  },
+  {
+    "id": 22,
+    "title": "Chikankari Anarkali Kurti",
+    "price": 1399,
+    "rating": 4.4,
+    "thumbnail": "https://images.meesho.com/images/products/70345670/bzlih_400.webp"
+  },
+  {
+    "id": 23,
+    "title": "Digital Print Anarkali Kurti",
+    "price": 799,
+    "rating": 4.3,
+    "thumbnail": "https://images.meesho.com/images/products/70617341/afgz1_400.webp"
+  },
+  {
+    "id": 24,
+    "title": "Flare Anarkali Kurti",
+    "price": 950,
+    "rating": 4.1,
+    "thumbnail": "https://images.meesho.com/images/products/68827630/iwhrl_400.webp"
+  },
+  {
+    "id": 25,
+    "title": "Silk Blend Anarkali Kurti",
+    "price": 1390,
+    "rating": 4.5,
+    "thumbnail": "https://images.meesho.com/images/products/70284732/rqrbi_400.webp"
+  },
+  {
+    "id": 26,
+    "title": "Festive Special Anarkali Kurti",
+    "price": 1099,
+    "rating": 4.2,
+    "thumbnail": "https://images.meesho.com/images/products/72307495/jea4x_400.webp"
+  },
+  {
+    "id": 27,
+    "title": "Graceful Anarkali Kurti",
+    "price": 999,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/72120163/wtuun_400.webp"
+  },
+  {
+    "id": 28,
+    "title": "Lightweight Anarkali Kurti",
+    "price": 770,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/74872983/ntdqp_400.webp"
+  },
+  {
+    "id": 29,
+    "title": "Soft Fabric Anarkali Kurti",
+    "price": 850,
+    "rating": 4.1,
+    "thumbnail": "https://images.meesho.com/images/products/69567238/eo5ei_400.webp"
+  },
+  {
+    "id": 30,
+    "title": "Daily Wear Anarkali Kurti",
+    "price": 699,
+    "rating": 4.0,
+    "thumbnail": "https://images.meesho.com/images/products/71848963/oxnvh_400.webp"
+  }
+]
+}

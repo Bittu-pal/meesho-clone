@@ -1,0 +1,184 @@
+{
+  "MenFootwear": [
+    {
+      "id": 1,
+      "title": "Classic Formal Oxford Shoes",
+      "price": 899,
+      "description": "A pair of classic lace-up Oxford shoes crafted from synthetic leather, perfect for business meetings and formal events.",
+      "thumbnail": "https://images.meesho.com/images/products/286241103/xqkaj_400.webp",
+      "rating": 4.5,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 2,
+      "title": "Trendy Casual White Sneakers",
+      "price": 649,
+      "description": "Versatile white sneakers for men, offering a stylish and comfortable choice for everyday casual wear.",
+      "thumbnail": "https://images.meesho.com/images/products/247547871/h1uam_400.webp",
+      "rating": 4.4,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 3,
+      "title": "Lightweight Sports Running Shoes",
+      "price": 799,
+      "description": "Breathable and lightweight sports shoes with a cushioned sole, designed for running, jogging, and gym workouts.",
+      "thumbnail": "https://images.meesho.com/images/products/301131979/b1jva_400.webp",
+      "rating": 4.6,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 4,
+      "title": "Stylish Penny Loafers",
+      "price": 729,
+      "description": "Elegant slip-on penny loafers that bridge the gap between formal and casual, offering both style and comfort.",
+      "thumbnail": "https://images.meesho.com/images/products/263884812/w7x9m_400.webp",
+      "rating": 4.3,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 5,
+      "title": "Durable Leather Ankle Boots",
+      "price": 1299,
+      "description": "Rugged and stylish ankle-length boots for men, perfect for biking and adding an edge to your look.",
+      "thumbnail": "https://images.meesho.com/images/products/139395277/o7v9e_400.webp",
+      "rating": 4.5,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 6,
+      "title": "Comfortable Leather Sandals",
+      "price": 499,
+      "description": "Open-toed leather sandals with comfortable straps and a sturdy sole, ideal for daily use.",
+      "thumbnail": "https://images.meesho.com/images/products/172605333/xkx0p_400.webp",
+      "rating": 4.2,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 7,
+      "title": "Casual Flip-Flops & Slippers",
+      "price": 249,
+      "description": "A pair of stylish and comfortable flip-flops, perfect for the beach, pool, or casual lounging.",
+      "thumbnail": "https://images.meesho.com/images/products/247167683/l9k7a_400.webp",
+      "rating": 4.1,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 8,
+      "title": "Ethnic Embroidered Mojaris",
+      "price": 899,
+      "description": "Traditional handcrafted mojaris with intricate embroidery, a perfect match for ethnic wear like kurtas.",
+      "thumbnail": "https://images.meesho.com/images/products/295173167/z9l2d_400.webp",
+      "rating": 4.4,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 9,
+      "title": "High-Top Fashion Sneakers",
+      "price": 999,
+      "description": "Street-style high-top sneakers that provide ankle support and a bold fashion statement.",
+      "thumbnail": "https://images.meesho.com/images/products/289291242/o3m8n_400.webp",
+      "rating": 4.3,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 10,
+      "title": "Outdoor Hiking & Trekking Shoes",
+      "price": 1499,
+      "description": "Durable shoes with superior grip and ankle support, built for hiking and trekking on rough terrains.",
+      "thumbnail": "https://images.meesho.com/images/products/141014588/h6j2f_400.webp",
+      "rating": 4.6,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 11,
+      "title": "Easy Slip-On Canvas Shoes",
+      "price": 549,
+      "description": "Comfortable and convenient slip-on canvas shoes, a perfect lightweight option for a casual day out.",
+      "thumbnail": "https://images.meesho.com/images/products/291993478/y5g9t_400.webp",
+      "rating": 4.2,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 12,
+      "title": "Formal Derby Shoes",
+      "price": 949,
+      "description": "Classic Derby shoes with an open-lacing system, offering a comfortable fit for formal occasions.",
+      "thumbnail": "https://images.meesho.com/images/products/264214283/a6v4i_400.webp",
+      "rating": 4.5,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 13,
+      "title": "Extra Comfort Slides",
+      "price": 399,
+      "description": "Soft and comfortable slides with a cushioned footbed, perfect for relaxing at home or a quick walk outside.",
+      "thumbnail": "https://images.meesho.com/images/products/275990299/c5u8t_400.webp",
+      "rating": 4.3,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 14,
+      "title": "Wingtip Brogue Dress Shoes",
+      "price": 1099,
+      "description": "Sophisticated brogue shoes with decorative perforations (broguing) and a classic wingtip design.",
+      "thumbnail": "https://images.meesho.com/images/products/155313989/q1w3e_400.webp",
+      "rating": 4.6,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 15,
+      "title": "Breathable Mesh Training Shoes",
+      "price": 699,
+      "description": "Training shoes with a breathable mesh upper to keep your feet cool and comfortable during intense workouts.",
+      "thumbnail": "https://images.meesho.com/images/products/316239129/f7i3k_400.webp",
+      "rating": 4.4,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 16,
+      "title": "Elegant Tassel Loafers",
+      "price": 859,
+      "description": "Stylish slip-on loafers adorned with decorative tassels, perfect for smart-casual and festive events.",
+      "thumbnail": "https://images.meesho.com/images/products/202685028/j9l2k_400.webp",
+      "rating": 4.4,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 17,
+      "title": "Traditional Kolhapuri Chappals",
+      "price": 599,
+      "description": "Handcrafted leather Kolhapuri chappals, offering a traditional and authentic ethnic look.",
+      "thumbnail": "https://images.meesho.com/images/products/301131179/r8t4y_400.webp",
+      "rating": 4.2,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 18,
+      "title": "Stylish Suede Chelsea Boots",
+      "price": 1399,
+      "description": "Classic slip-on Chelsea boots made from suede, featuring their signature elastic side panel.",
+      "thumbnail": "https://images.meesho.com/images/products/133092299/d9wjw_400.webp",
+      "rating": 4.5,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 19,
+      "title": "Colourblocked Running Sneakers",
+      "price": 759,
+      "description": "Modern running sneakers with a trendy colourblocked design and a performance-oriented sole.",
+      "thumbnail": "https://images.meesho.com/images/products/240032997/k2m8n_400.webp",
+      "rating": 4.3,
+      "category": "Men Footwear"
+    },
+    {
+      "id": 20,
+      "title": "Suede Driving Moccasins",
+      "price": 899,
+      "description": "Comfortable and stylish driving moccasins made from soft suede, featuring a flexible sole with rubber grip pads.",
+      "thumbnail": "https://images.meesho.com/images/products/275306699/a3b1c_400.webp",
+      "rating": 4.4,
+      "category": "Men Footwear"
+    }
+  ]
+}

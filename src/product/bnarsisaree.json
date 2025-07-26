@@ -1,0 +1,214 @@
+{
+  "banarasi_silk_sarees": [
+    {
+      "id": 1,
+      "title": "Banarasi Silk Saree 1",
+      "price": 2499,
+      "rating": 4.5,
+      "thumbnail": "https://images.meesho.com/images/products/27385559/k0cqn_400.webp"
+    },
+    {
+      "id": 2,
+      "title": "Banarasi Silk Saree 2",
+      "price": 2799,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/301582523/riubw_400.webp"
+    },
+    {
+      "id": 3,
+      "title": "Banarasi Silk Saree 3",
+      "price": 2299,
+      "rating": 4.4,
+      "thumbnail": "https://images.meesho.com/images/products/310371621/sggcf_400.webp"
+    },
+    {
+      "id": 4,
+      "title": "Banarasi Silk Saree 4",
+      "price": 3199,
+      "rating": 4.6,
+      "thumbnail": "https://images.meesho.com/images/products/104317152/lho4m_400.webp"
+    },
+    {
+      "id": 5,
+      "title": "Banarasi Silk Saree 5",
+      "price": 2099,
+      "rating": 4.2,
+      "thumbnail": "https://images.meesho.com/images/products/21775031/pql0n_400.webp"
+    },
+    {
+      "id": 6,
+      "title": "Banarasi Silk Saree 6",
+      "price": 2599,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/301574403/j9xrw_400.webp"
+    },
+    {
+      "id": 7,
+      "title": "Banarasi Silk Saree 7",
+      "price": 2999,
+      "rating": 4.7,
+      "thumbnail": "https://images.meesho.com/images/products/71038608/ry9tf_400.webp"
+    },
+    {
+      "id": 8,
+      "title": "Banarasi Silk Saree 8",
+      "price": 2899,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/36100707/uhlbp_400.webp"
+    },
+    {
+      "id": 9,
+      "title": "Banarasi Silk Saree 9",
+      "price": 2199,
+      "rating": 4.2,
+      "thumbnail": "https://images.meesho.com/images/products/104316318/2ezye_400.webp"
+    },
+    {
+      "id": 10,
+      "title": "Banarasi Silk Saree 10",
+      "price": 3399,
+      "rating": 4.8,
+      "thumbnail": "https://images.meesho.com/images/products/71037291/z7whe_400.webp"
+    },
+    {
+      "id": 11,
+      "title": "Banarasi Silk Saree 11",
+      "price": 2799,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/301574377/v3fg4_400.webp"
+    },
+    {
+      "id": 12,
+      "title": "Banarasi Silk Saree 12",
+      "price": 2499,
+      "rating": 4.4,
+      "thumbnail": "https://images.meesho.com/images/products/71038542/pyphd_400.webp"
+    },
+    {
+      "id": 13,
+      "title": "Banarasi Silk Saree 13",
+      "price": 2599,
+      "rating": 4.6,
+      "thumbnail": "https://images.meesho.com/images/products/301574410/bijgx_400.webp"
+    },
+    {
+      "id": 14,
+      "title": "Banarasi Silk Saree 14",
+      "price": 2299,
+      "rating": 4.1,
+      "thumbnail": "https://images.meesho.com/images/products/71038494/iv6c8_400.webp"
+    },
+    {
+      "id": 15,
+      "title": "Banarasi Silk Saree 15",
+      "price": 3199,
+      "rating": 4.5,
+      "thumbnail": "https://images.meesho.com/images/products/301574460/uwxdh_400.webp"
+    },
+    {
+      "id": 16,
+      "title": "Banarasi Silk Saree 16",
+      "price": 2899,
+      "rating": 4.2,
+      "thumbnail": "https://images.meesho.com/images/products/27443520/edl9u_400.webp"
+    },
+    {
+      "id": 17,
+      "title": "Banarasi Silk Saree 17",
+      "price": 2099,
+      "rating": 4.0,
+      "thumbnail": "https://images.meesho.com/images/products/27385709/yz01l_400.webp"
+    },
+    {
+      "id": 18,
+      "title": "Banarasi Silk Saree 18",
+      "price": 2699,
+      "rating": 4.4,
+      "thumbnail": "https://images.meesho.com/images/products/301574379/tcbgk_400.webp"
+    },
+    {
+      "id": 19,
+      "title": "Banarasi Silk Saree 19",
+      "price": 2999,
+      "rating": 4.5,
+      "thumbnail": "https://images.meesho.com/images/products/301574394/jztwq_400.webp"
+    },
+    {
+      "id": 20,
+      "title": "Banarasi Silk Saree 20",
+      "price": 2599,
+      "rating": 4.2,
+      "thumbnail": "https://images.meesho.com/images/products/301574423/dxtvd_400.webp"
+    },
+    {
+      "id": 21,
+      "title": "Banarasi Silk Saree 21",
+      "price": 2099,
+      "rating": 4.1,
+      "thumbnail": "https://images.meesho.com/images/products/301574470/p3bdy_400.webp"
+    },
+    {
+      "id": 22,
+      "title": "Banarasi Silk Saree 22",
+      "price": 3299,
+      "rating": 4.5,
+      "thumbnail": "https://images.meesho.com/images/products/301574444/khvbi_400.webp"
+    },
+    {
+      "id": 23,
+      "title": "Banarasi Silk Saree 23",
+      "price": 2999,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/301574451/vlnid_400.webp"
+    },
+    {
+      "id": 24,
+      "title": "Banarasi Silk Saree 24",
+      "price": 2499,
+      "rating": 4.1,
+      "thumbnail": "https://images.meesho.com/images/products/71038506/jf7wq_400.webp"
+    },
+    {
+      "id": 25,
+      "title": "Banarasi Silk Saree 25",
+      "price": 3199,
+      "rating": 4.7,
+      "thumbnail": "https://images.meesho.com/images/products/301574414/q2jwi_400.webp"
+    },
+    {
+      "id": 26,
+      "title": "Banarasi Silk Saree 26",
+      "price": 2899,
+      "rating": 4.3,
+      "thumbnail": "https://images.meesho.com/images/products/301574483/k0lnm_400.webp"
+    },
+    {
+      "id": 27,
+      "title": "Banarasi Silk Saree 27",
+      "price": 2399,
+      "rating": 4.0,
+      "thumbnail": "https://images.meesho.com/images/products/27385683/b5w1o_400.webp"
+    },
+    {
+      "id": 28,
+      "title": "Banarasi Silk Saree 28",
+      "price": 3299,
+      "rating": 4.6,
+      "thumbnail": "https://images.meesho.com/images/products/27385815/kp02k_400.webp"
+    },
+    {
+      "id": 29,
+      "title": "Banarasi Silk Saree 29",
+      "price": 3099,
+      "rating": 4.7,
+      "thumbnail": "https://images.meesho.com/images/products/71038471/rvsq4_400.webp"
+    },
+    {
+      "id": 30,
+      "title": "Banarasi Silk Saree 30",
+      "price": 2799,
+      "rating": 4.2,
+      "thumbnail": "https://images.meesho.com/images/products/301574486/i9m0m_400.webp"
+    }
+  ]
+}

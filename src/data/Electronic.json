@@ -1,0 +1,114 @@
+{
+  "Electroni": [
+    {
+      "id": 1,
+      "title": "Smart Watch",
+      "price": 1299,
+      "thumbnail": "https://images.meesho.com/images/products/429154292/6ynm6_400.webp"
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 999,
+      "thumbnail": "https://images.meesho.com/images/products/500301351/rsroj_400.webp"
+    },
+    {
+      "id": 3,
+      "title": "VR Headset",
+      "price": 1999,
+      "thumbnail": "https://images.meesho.com/images/products/441934809/acaj6_400.webp"
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "price": 699,
+      "thumbnail": "https://images.meesho.com/images/products/447840453/bje3w_400.webp"
+    },
+    {
+      "id": 5,
+      "title": "nack band Earphone",
+      "price": 1499,
+      "thumbnail": "https://images.meesho.com/images/products/431826998/wvfn3_400.webp"
+    },
+    {
+      "id": 6,
+      "title": "Ear Buds",
+      "price": 8999,
+      "thumbnail": "https://images.meesho.com/images/products/405239068/heveu_400.webp"
+    },
+    {
+      "id": 7,
+      "title": "Bluetooth",
+      "price": 39999,
+      "thumbnail": "https://images.meesho.com/images/products/441866071/gbkr6_400.webp"
+    },
+    {
+      "id": 8,
+      "title": "USB Flash Drive",
+      "price": 499,
+      "thumbnail": "https://images.meesho.com/images/products/405285460/2zndr_400.webp"
+    },
+    {
+      "id": 9,
+      "title": "Ear Buds Hcppup",
+      "price": 3499,
+      "thumbnail": "https://images.meesho.com/images/products/354371742/snbri_400.webp"
+    },
+    {
+      "id": 10,
+      "title": "wired Earphone",
+      "price": 799,
+      "thumbnail": "https://images.meesho.com/images/products/433761242/mxjla_400.webp"
+    },
+    {
+      "id": 11,
+      "title": "Ear Buds Hcppup",
+      "price": 1099,
+      "thumbnail": "https://images.meesho.com/images/products/354371736/0cps0_400.webp"
+    },
+    {
+      "id": 12,
+      "title": "wired  leed ",
+      "price": 5499,
+      "thumbnail": "https://images.meesho.com/images/products/433728122/lfu0c_400.webp"
+    },
+    {
+      "id": 13,
+      "title": "DSLR Camera",
+      "price": 49999,
+      "thumbnail": "https://images.meesho.com/images/products/354371737/dmlqa_400.webp"
+    },
+    {
+      "id": 14,
+      "title": "Bluetooth",
+      "price": 1299,
+      "thumbnail": "https://images.meesho.com/images/products/529767864/ymbys_400.webp"
+    },
+    {
+      "id": 15,
+      "title": "Ear Buds" ,
+      "price": 7999,
+      "thumbnail": "https://images.meesho.com/images/products/458225294/ystav_400.webp"
+    },
+    {
+      "id": 16,
+      "title": "wirless EArphone",
+      "price": 10999,
+      "thumbnail": "https://images.meesho.com/images/products/301462733/w73iz_400.webp"
+    },
+    {
+      "id": 17,
+      "title": "Electric butus",
+      "price": 1499,
+      "thumbnail": "https://images.meesho.com/images/products/440002506/1m4du_400.webp"
+    },
+    {
+      "id": 18,
+      "title": "wired Earphone Boots",
+      "price": 4999,
+      "thumbnail": "https://images.meesho.com/images/products/438308594/eqjwd_400.webp"
+    }
+  ]
+}
+
+

@@ -1,0 +1,277 @@
+
+{
+    "Earing":
+
+[
+  {
+    "id": 1,
+    "title": "Gold-Plated Jhumka Earrings",
+    "price": 249,
+    "description": "Traditional gold-plated jhumka earrings with pearl detailing.",
+    "thumbnail": "https://images.meesho.com/images/products/406249361/kkjsa_400.webp",
+    "rating": 4.5,
+    "category": "Earrings"
+  },
+  {
+    "id": 2,
+    "title": "Silver Oxidized Hoop Earrings",
+    "price": 199,
+    "description": "Trendy oxidized silver hoops perfect for casual wear.",
+    "thumbnail": "https://images.meesho.com/images/products/466791773/lkzsk_400.webp",
+    "rating": 4.2,
+    "category": "Earrings"
+  },
+  {
+    "id": 3,
+    "title": "Kundan Stud Earrings",
+    "price": 299,
+    "description": "Elegant kundan studs ideal for traditional outfits.",
+    "thumbnail": "https://images.meesho.com/images/products/466791773/lkzsk_400.webp",
+    "rating": 4.8,
+    "category": "Earrings"
+  },
+  {
+    "id": 4,
+    "title": "Pearl Drop Earrings",
+    "price": 179,
+    "description": "Minimalistic pearl drops suitable for formal and festive wear.",
+    "thumbnail": "https://images.meesho.com/images/products/526501649/ldoia_400.webp",
+    "rating": 4.3,
+    "category": "Earrings"
+  },
+  {
+    "id": 5,
+    "title": "Boho Tassel Earrings",
+    "price": 149,
+    "description": "Colorful tassel earrings for a bohemian look.",
+    "thumbnail": "https://images.meesho.com/images/products/391297547/zqogw_400.webp",
+    "rating": 4.1,
+    "category": "Earrings"
+  },
+  {
+    "id": 6,
+    "title": "Meenakari Stud Earrings",
+    "price": 259,
+    "description": "Traditional meenakari studs with intricate design.",
+    "thumbnail": "https://images.meesho.com/images/products/508561518/tfig8_400.webp",
+    "rating": 4.4,
+    "category": "Earrings"
+  },
+  {
+    "id": 7,
+    "title": "Mirror Work Dangler Earrings",
+    "price": 199,
+    "description": "Dangler earrings with mirror work for ethnic outfits.",
+    "thumbnail": "https://images.meesho.com/images/products/363113168/2ld94_400.webp",
+    "rating": 4.6,
+    "category": "Earrings"
+  },
+  {
+    "id": 8,
+    "title": "Stone-Studded Drop Earrings",
+    "price": 269,
+    "description": "Elegant stone-studded earrings for party wear.",
+    "thumbnail": "https://images.meesho.com/images/products/411061288/vsdoz_400.webp",
+    "rating": 4.7,
+    "category": "Earrings"
+  },
+  {
+    "id": 9,
+    "title": "Tribal Design Earrings",
+    "price": 189,
+    "description": "Oxidized earrings with tribal motifs.",
+    "thumbnail": "https://images.meesho.com/images/products/287409792/vqeno_400.webp",
+    "rating": 4.2,
+    "category": "Earrings"
+  },
+  {
+    "id": 10,
+    "title": "Geometric Hoop Earrings",
+    "price": 229,
+    "description": "Modern geometric hoops for everyday wear.",
+    "thumbnail": "https://images.meesho.com/images/products/287409792/vqeno_400.webp",
+    "rating": 4.0,
+    "category": "Earrings"
+  },
+  {
+    "id": 11,
+    "title": "Minimalist Bar Earrings",
+    "price": 139,
+    "description": "Simple and sleek bar-style earrings.",
+    "thumbnail": "https://images.meesho.com/images/products/415637708/sckho_400.webp",
+    "rating": 4.1,
+    "category": "Earrings"
+  },
+  {
+    "id": 12,
+    "title": "Rose Gold Heart Earrings",
+    "price": 299,
+    "description": "Romantic heart-shaped earrings in rose gold.",
+    "thumbnail": "https://images.meesho.com/images/products/268536304/kvrxt_400.webp",
+    "rating": 4.6,
+    "category": "Earrings"
+  },
+  {
+    "id": 13,
+    "title": "Multi-layered Earrings",
+    "price": 319,
+    "description": "Statement earrings with multi-layered chains.",
+    "thumbnail": "https://images.meesho.com/images/products/370325937/6atb3_400.webp",
+    "rating": 4.3,
+    "category": "Earrings"
+  },
+  {
+    "id": 14,
+    "title": "Chandelier Earrings",
+    "price": 349,
+    "description": "Heavy chandelier-style earrings for weddings.",
+    "thumbnail": "https://images.meesho.com/images/products/451013410/igotc_400.webp",
+    "rating": 4.7,
+    "category": "Earrings"
+  },
+  {
+    "id": 15,
+    "title": "Feather Dangler Earrings",
+    "price": 159,
+    "description": "Feather danglers for a casual trendy look.",
+    "thumbnail": "https://images.meesho.com/images/products/419347464/bbd6n_400.webp",
+    "rating": 4.0,
+    "category": "Earrings"
+  },
+  {
+    "id": 16,
+    "title": "Shell Earrings",
+    "price": 179,
+    "description": "Beach-style shell earrings for vacations.",
+    "thumbnail": "https://images.meesho.com/images/products/473267569/sb9as_400.webp",
+    "rating": 4.1,
+    "category": "Earrings"
+  },
+  {
+    "id": 17,
+    "title": "Antique Gold Stud Earrings",
+    "price": 199,
+    "description": "Classic antique studs with gold finish.",
+    "thumbnail": "http://images.meesho.com/images/products/478406860/sd65w_400.webp",
+    "rating": 4.2,
+    "category": "Earrings"
+  },
+  {
+    "id": 18,
+    "title": "Clip-On Fashion Earrings",
+    "price": 219,
+    "description": "Stylish clip-on earrings for non-pierced ears.",
+    "thumbnail": "https://images.meesho.com/images/products/328013165/9qeht_400.webp",
+    "rating": 4.3,
+    "category": "Earrings"
+  },
+  {
+    "id": 19,
+    "title": "Ethnic Dome Earrings",
+    "price": 239,
+    "description": "Dome-shaped earrings for festive ethnic looks.",
+    "thumbnail": "https://images.meesho.com/images/products/503561445/xo1l0_400.webp",
+    "rating": 4.5,
+    "category": "Earrings"
+  },
+  {
+    "id": 20,
+    "title": "Rhinestone Stud Earrings",
+    "price": 149,
+    "description": "Shiny rhinestone studs perfect for parties.",
+    "thumbnail": "https://images.meesho.com/images/products/473254488/nuthd_400.webp",
+    "rating": 4.4,
+    "category": "Earrings"
+  },
+  {
+    "id": 21,
+    "title": "Statement Circle Earrings",
+    "price": 279,
+    "description": "Bold circular earrings for fashion lovers.",
+    "thumbnail": "https://images.meesho.com/images/products/56290806/pdgcl_400.webp",
+    "rating": 4.1,
+    "category": "Earrings"
+  },
+  {
+    "id": 22,
+    "title": "Long Chain Tassel Earrings",
+    "price": 189,
+    "description": "Chain-style earrings with tassels.",
+    "thumbnail": "https://images.meesho.com/images/products/419347400/kiot3_400.webp",
+    "rating": 4.3,
+    "category": "Earrings"
+  },
+  {
+    "id": 23,
+    "title": "Diamond Cut Crystal Earrings",
+    "price": 329,
+    "description": "Crystal earrings with diamond-cut shine.",
+    "thumbnail": "https://images.meesho.com/images/products/302716201/9smsk_400.webp",
+    "rating": 4.7,
+    "category": "Earrings"
+  },
+  {
+    "id": 24,
+    "title": "Vintage Coin Earrings",
+    "price": 199,
+    "description": "Coin-style vintage earrings with oxidized look.",
+    "thumbnail": "https://images.meesho.com/images/products/419347256/3annr_400.webp",
+    "rating": 4.2,
+    "category": "Earrings"
+  },
+  {
+    "id": 25,
+    "title": "Butterfly Stud Earrings",
+    "price": 149,
+    "description": "Cute butterfly-shaped studs for girls.",
+    "thumbnail": "https://images.meesho.com/images/products/525469550/ka7bh_400.webp",
+    "rating": 4.1,
+    "category": "Earrings"
+  },
+  {
+    "id": 26,
+    "title": "Zirconia Drop Earrings",
+    "price": 249,
+    "description": "Elegant drop earrings with zirconia stones.",
+    "thumbnail": "https://images.meesho.com/images/products/418999384/m9oai_400.webp",
+    "rating": 4.5,
+    "category": "Earrings"
+  },
+  {
+    "id": 27,
+    "title": "Leaf Shape Earrings",
+    "price": 189,
+    "description": "Nature-inspired leaf-shaped earrings.",
+    "thumbnail": "https://images.meesho.com/images/products/351423836/fw4sl_400.webp",
+    "rating": 4.0,
+    "category": "Earrings"
+  },
+  {
+    "id": 28,
+    "title": "Modern Triangle Earrings",
+    "price": 199,
+    "description": "Geometric triangle earrings in matte finish.",
+    "thumbnail": "https://images.meesho.com/images/products/458250740/o6ycc_400.webp",
+    "rating": 4.3,
+    "category": "Earrings"
+  },
+  {
+    "id": 29,
+    "title": "Traditional Peacock Earrings",
+    "price": 279,
+    "description": "Peacock design with enamel and beads.",
+    "thumbnail": "https://images.meesho.com/images/products/353032824/jozef_400.webp",
+    "rating": 4.6,
+    "category": "Earrings"
+  },
+  {
+    "id": 30,
+    "title": "Gold-Plated Dome Jhumkas",
+    "price": 299,
+    "description": "Heavy gold-plated dome-shaped jhumka earrings.",
+    "thumbnail": "https://images.meesho.com/images/products/328013078/l73xd_400.webp",
+    "rating": 4.8,
+    "category": "Earrings"
+  }
+]
+}
